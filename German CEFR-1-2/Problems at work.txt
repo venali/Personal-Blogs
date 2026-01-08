@@ -1,0 +1,310 @@
+CEFR C1-level German grammar study pack on „Probleme bei der Arbeit“ (Problems at work)
+Inhaltsverzeichnis
+
+Einführung: Problemfelder im Berufsalltag
+Präzise Strukturen: Präpositionen und Kollokationen (bei, mit, wegen, unter, trotz, aufgrund, infolge)
+Tempus & Aspekt: Berichten, Eskalieren, Lösen
+Modalität & Nuancen: müssen, sollen, dürfen, können, möchten, werden (Vermutung)
+Komplexe Nebensätze: kausal, final, temporal, konditional, konzessiv
+Passiv & Nominalisierung: formelles Problem- und Lösungsvokabular
+Adverbien & Feinstimmung: bereits, noch, erst, gerade, weiterhin, unverzüglich, vorläufig
+Mini-Dialoge & Beispieltexte (Konflikt, Engpass, Eskalation)
+Übungen (mit Lösungen)
+Zusammenfassung & Praxistext
+
+
+1) Einführung: Problemfelder im Berufsalltag
+English translation (sentence-by-sentence):
+In professional life, problems often arise due to unclear responsibilities, tight deadlines, resource constraints, communication gaps, or conflicting priorities. At C1 level, we describe issues precisely, justify decisions, and propose solutions using nuanced grammar.
+German (with glosses):
+Im (in) Berufsleben (professional-life) treten (arise) Probleme (problems) oft (often) auf (occur) wegen (due-to) unklarer (unclear) Zuständigkeiten (responsibilities), knapper (tight) Fristen (deadlines), begrenzter (limited) Ressourcen (resources), Kommunikationslücken (communication-gaps), oder (or) widersprüchlicher (conflicting) Prioritäten (priorities).
+Auf (at) C1-Niveau (C1-level) beschreiben (describe) wir (we) Probleme (issues) präzise (precisely), begründen (justify) Entscheidungen (decisions), und (and) schlagen (propose) Lösungen (solutions) mit (with) nuancierter (nuanced) Grammatik (grammar) vor (forth).
+
+2) Präzise Strukturen: Präpositionen und Kollokationen
+English translation:
+Prepositions shape exact meanings: “bei” (at/in the case of), “mit” (with/by means of), “wegen” (because of), “unter” (under), “trotz” (despite), “aufgrund/infolge” (due to/as a consequence).
+German (glosses):
+Präpositionen (prepositions) prägen (shape) genaue (exact) Bedeutungen (meanings): bei (at/with), mit (with/by-means-of), wegen (because-of), unter (under), trotz (despite), aufgrund (due-to)/infolge (as-a-consequence-of).
+English translation (examples):
+We have a delay because of supplier issues. Under time pressure, quality declined. Despite the constraints, we delivered. Due to the outage, we escalated immediately.
+German (glosses):
+Wir (we) haben (have) eine (a) Verzögerung (delay) wegen (because-of) Lieferantenproblemen (supplier-issues).
+Unter (under) Zeitdruck (time-pressure) ist (is/has) die (the) Qualität (quality) gesunken (declined).
+Trotz (despite) der (the) Beschränkungen (constraints) haben (have) wir (we) geliefert (delivered).
+Aufgrund (due-to) des (of-the) Ausfalls (outage) haben (have) wir (we) unverzüglich (immediately) eskaliert (escalated).
+English translation (collocations):
+Typical collocations: “a lack of resources,” “a miscommunication,” “a bottleneck,” “a conflict of priorities,” “a compliance issue.”
+German (glosses):
+Typische (typical) Kollokationen (collocations): ein (a) Mangel (lack) an (of) Ressourcen (resources), eine (a) Fehlkommunikation (miscommunication), ein (a) Engpass (bottleneck), ein (a) Prioritätenkonflikt (conflict-of-priorities), ein (a) Compliance-Problem (compliance-issue).
+
+3) Tempus & Aspekt: Berichten, Eskalieren, Lösen
+English translation:
+Present describes ongoing issues; perfect is common for spoken reporting; simple past is typical in written incident reports; past perfect marks earlier causes; Futur I expresses plan/assumption; Futur II indicates completion by a given time.
+German (glosses):
+Das (the) Präsens (present) beschreibt (describes) laufende (ongoing) Probleme (issues); das (the) Perfekt (perfect) ist (is) üblich (common) im (in-the) gesprochenen (spoken) Bericht (report); das (the) Präteritum (simple-past) ist (is) typisch (typical) im (in-the) schriftlichen (written) Vorfallbericht (incident-report); das (the) Plusquamperfekt (past-perfect) markiert (marks) frühere (earlier) Ursachen (causes); Futur (future) I (I) drückt (expresses) Plan/Annahme (plan/assumption) aus (out); Futur (future) II (II) zeigt (shows) Abgeschlossenheit (completion) bis (by) zu (to) einem (a) Zeitpunkt (time).
+English translation (examples):
+Today, we face a bottleneck. Yesterday, we escalated the incident. In the report, the team documented the root cause. Before the outage started, the supplier had delayed the shipment. Tomorrow, we will implement the patch. By Friday, we will have restored all services.
+German (glosses):
+Heute (today) haben (have) wir (we) einen (a) Engpass (bottleneck).
+Gestern (yesterday) haben (have) wir (we) den (the) Vorfall (incident) eskaliert (escalated).
+Im (in-the) Bericht (report) dokumentierte (documented) das (the) Team (team) die (the) Ursache (cause).
+Bevor (before) der (the) Ausfall (outage) begann (started), hatte (had) der (the) Lieferant (supplier) die (the) Lieferung (shipment) verzögert (delayed).
+Morgen (tomorrow) werden (will) wir (we) den (the) Patch (patch) implementieren (implement).
+Bis (by) Freitag (Friday) werden (will) wir (we) alle (all) Dienste (services) wiederhergestellt (restored) haben (have).
+
+4) Modalität & Nuancen: müssen, sollen, dürfen, können, möchten, werden (Vermutung)
+English translation:
+Modals express obligation, recommendation, permission, capability, wish, and assumption—use them to calibrate escalation and responsibility.
+German (glosses):
+Modalverben (modal-verbs) drücken (express) Verpflichtung (obligation), Empfehlung (recommendation), Erlaubnis (permission), Fähigkeit (capability), Wunsch (wish), und (and) Annahme (assumption) aus (out)—nutzen (use) Sie (you) sie (them) zur (to-the) Kalibrierung (calibration) von (of) Eskalation (escalation) und (and) Verantwortung (responsibility).
+English translation (examples):
+We must document deviations. You should align with the stakeholders. Engineers may deploy only after tests. We can mitigate with a workaround. I would like to postpone the release. The system will probably stabilize by noon.
+German (glosses):
+Wir (we) müssen (must) Abweichungen (deviations) dokumentieren (document).
+Du (you) solltest (should) dich (yourself) mit (with) den (the) Stakeholdern (stakeholders) abstimmen (align).
+IngenieurInnen (engineers) dürfen (may) nur (only) nach (after) Tests (tests) deployen (deploy).
+Wir (we) können (can) mit (with) einem (a) Workaround (workaround) abmildern (mitigate).
+Ich (I) möchte (would-like) das (the) Release (release) verschieben (postpone).
+Das (the) System (system) wird (will/probably) bis (by) Mittag (noon) stabilisieren (stabilize) sich (itself) (be preferred: „wird bis Mittag stabil sein“).
+
+5) Komplexe Nebensätze: kausal, final, temporal, konditional, konzessiv
+English translation:
+Causal explains reasons; final expresses purpose; temporal orders sequence; conditional sets conditions; concessive acknowledges obstacles while maintaining action.
+German (glosses):
+Kausalsätze (causal-clauses) erklären (explain) Gründe (reasons): Weil (because) die (the) Anforderungen (requirements) gestiegen (increased) sind (are), brauchen (need) wir (we) mehr (more) Kapazität (capacity).
+Finalsätze (final-clauses) drücken (express) Zweck (purpose) aus (out): Damit (so-that) die (the) Übergabe (handover) gelingt (succeeds), dokumentieren (document) wir (we) gründlich (thoroughly).
+Temporalsätze (temporal-clauses) ordnen (order) Abfolge (sequence): Nachdem (after) wir (we) getestet (tested) haben (have), deployen (deploy) wir (we) das (the) Update (update).
+Konditionalsätze (conditional-clauses) setzen (set) Bedingungen (conditions): Wenn (if) die (the) Validierung (validation) fehlschlägt (fails), verschieben (postpone) wir (we) den (the) Rollout (rollout).
+Konzessivsätze (concessive-clauses) anerkennen (acknowledge) Hindernisse (obstacles): Obwohl (although) die (the) Zeit (time) knapp (tight) ist (is), halten (keep) wir (we) die (the) Qualitätsstandards (quality-standards) ein (comply).
+English translation (example sentence combining clauses):
+Because the client increased the scope, we extend the timeline so that quality remains high; after we have synchronized the plan, we will proceed; if the data is incomplete, we pause; although pressure is strong, we communicate transparently.
+German (glosses):
+Weil (because) der (the) Kunde (client) den (the) Umfang (scope) erhöht (increased) hat (has), verlängern (extend) wir (we) den (the) Zeitplan (timeline), damit (so-that) die (the) Qualität (quality) hoch (high) bleibt (remains); Nachdem (after) wir (we) den (the) Plan (plan) synchronisiert (synchronized) haben (have), fahren (proceed) wir (we) fort (continue); Wenn (if) die (the) Daten (data) unvollständig (incomplete) sind (are), pausieren (pause) wir (we); Obwohl (although) der (the) Druck (pressure) stark (strong) ist (is), kommunizieren (communicate) wir (we) transparent (transparently).
+
+6) Passiv & Nominalisierung: formelles Vokabular
+English translation:
+Passive emphasizes procedure and neutrality; nominalizations condense policy. Combine them for formal workplace communication.
+German (glosses):
+Das (the) Passiv (passive) betont (emphasizes) Verfahren (procedure) und (and) Neutralität (neutrality); Nominalisierungen (nominalizations) verdichten (condense) Richtlinien (policies). Kombinieren (combine) Sie (you) beides (both) für (for) formelle (formal) Arbeitskommunikation (workplace-communication).
+English translation (examples):
+The incident was escalated. The deviation was documented. The compliance check is conducted. The postponement of the release is requested. The restoration of services is prioritized.
+German (glosses):
+Der (the) Vorfall (incident) wurde (was) eskaliert (escalated).
+Die (the) Abweichung (deviation) wurde (was) dokumentiert (documented).
+Der (the) Compliance-Check (compliance-check) wird (is) durchgeführt (conducted).
+Die (the) Verschiebung (postponement) des (of-the) Releases (release) wird (is) erbeten (requested).
+Die (the) Wiederherstellung (restoration) der (of-the) Dienste (services) wird (is) priorisiert (prioritized).
+
+7) Adverbien & Feinstimmung
+English translation:
+Adverbs refine timing and stance: already, still, only just, just now, further, immediately, provisionally.
+German (glosses):
+Adverbien (adverbs) verfeinern (refine) Zeit (time) und (and) Haltung (stance): bereits (already), noch (still), erst (only-just), gerade (just-now), weiterhin (further/still), unverzüglich (immediately), vorläufig (provisionally).
+English translation (examples):
+We have already informed the team. The service is still down. I have only just received the logs. The client is just now calling. Operations remain further engaged. Please respond immediately. The terms are provisionally accepted.
+German (glosses):
+Wir (we) haben (have) das (the) Team (team) bereits (already) informiert (informed).
+Der (the) Dienst (service) ist (is) noch (still) ausgefallen (down).
+Ich (I) habe (have) erst (only-just) die (the) Logs (logs) erhalten (received).
+Der (the) Kunde (client) ruft (calls) gerade (just-now) an (up).
+Der (the) Betrieb (operations) bleibt (remains) weiterhin (further/still) eingebunden (engaged).
+Bitte (please) antworten (respond) unverzüglich (immediately).
+Die (the) Bedingungen (terms) sind (are) vorläufig (provisionally) akzeptiert (accepted).
+
+8) Mini-Dialoge & Beispieltexte
+8.1 Konflikt um Prioritäten
+English translation (sentence-by-sentence):
+A: Because the deadline is tomorrow, we must prioritize the bug fix.
+B: Although the feature is important, the outage requires immediate attention.
+A: If we deploy the fix at noon, the service will probably stabilize.
+B: Good—after the validation, we will inform the stakeholders.
+German (glosses):
+A: Weil (because) die (the) Frist (deadline) morgen (tomorrow) ist (is), müssen (must) wir (we) den (the) Bugfix (bug-fix) priorisieren (prioritize).
+B: Obwohl (although) das (the) Feature (feature) wichtig (important) ist (is), erfordert (requires) der (the) Ausfall (outage) unverzügliche (immediate) Aufmerksamkeit (attention).
+A: Wenn (if) wir (we) den (the) Fix (fix) um (at) Mittag (noon) deployen (deploy), wird (will/probably) der (the) Dienst (service) stabil (stable) sein (be).
+B: Gut (good)—Nachdem (after) die (the) Validierung (validation) abgeschlossen (completed) ist (is), werden (will) wir (we) die (the) Stakeholder (stakeholders) informieren (inform).
+
+8.2 Engpass & Ressourcen
+English translation:
+A: We have a bottleneck due to limited staffing.
+B: In order to maintain quality, we will extend the timeline.
+A: If the client accepts the postponement, the risk decreases.
+B: Nevertheless, we continue to monitor daily.
+German (glosses):
+A: Wir (we) haben (have) einen (a) Engpass (bottleneck) aufgrund (due-to) begrenzter (limited) Personalkapazität (staffing).
+B: Damit (so-that) die (the) Qualität (quality) gewahrt (maintained) wird (is), werden (will) wir (we) den (the) Zeitplan (timeline) verlängern (extend).
+A: Wenn (if) der (the) Kunde (client) die (the) Verschiebung (postponement) akzeptiert (accepts), sinkt (decreases) das (the) Risiko (risk).
+B: Dennoch (nevertheless) überwachen (monitor) wir (we) täglich (daily) weiter (further).
+
+8.3 Eskalation & Kommunikation
+English translation:
+A: The incident has been escalated; compliance requires documentation.
+B: We will compile a root-cause analysis by Friday.
+A: As soon as the patch is tested, we deploy.
+B: In the meantime, we inform all teams transparently.
+German (glosses):
+A: Der (the) Vorfall (incident) ist (is/has-been) eskaliert (escalated) worden (been); Compliance (compliance) erfordert (requires) Dokumentation (documentation).
+B: Bis (by) Freitag (Friday) werden (will) wir (we) eine (a) Root-Cause-Analyse (root-cause-analysis) zusammenstellen (compile).
+A: Sobald (as-soon-as) der (the) Patch (patch) getestet (tested) ist (is), deployen (deploy) wir (we).
+B: Inzwischen (in-the-meantime) informieren (inform) wir (we) alle (all) Teams (teams) transparent (transparently).
+
+9) Übungen (mit Lösungen)
+Übung 1: Präpositionen & Kollokationen
+Aufgabe: Ergänze bei, mit, wegen, unter, trotz, aufgrund, infolge sinnvoll.
+
+Wir haben Verzögerungen ___ Lieferantenwechsel.
+___ Zeitdruck sinkt die Genauigkeit.
+___ der Engpässe liefern wir trotzdem.
+___ der Störung wurde unverzüglich eskaliert.
+Wir lösen das Problem ___ einem Workaround.
+___ diesem Vorfall passen wir den Prozess an.
+___ der neuen Anforderungen brauchen wir mehr Kapazität.
+
+Lösungen:
+
+wegen
+Unter
+Trotz
+Aufgrund (auch: infolge)
+mit
+Infolge (auch: aufgrund)
+Aufgrund
+
+
+Übung 2: Tempus korrekt wählen
+Aufgabe: Entscheide Präsens, Perfekt, Präteritum, Plusquamperfekt, Futur I, Futur II und formuliere.
+a) (Sprechbericht gestern) Wir ___ (eskalieren) den Vorfall.
+b) (Schriftbericht) Die Abteilung ___ (dokumentieren) die Abweichung.
+c) (Vorzeitigkeit) Bevor der Ausfall begann, der Lieferant ___ (verzögern) die Lieferung.
+d) (Plan) Morgen wir ___ (implementieren) den Patch.
+e) (Abgeschlossenheit) Bis Freitag wir ___ (wiederherstellen) alle Dienste.
+Musterlösungen:
+a) haben eskaliert → Wir haben gestern den Vorfall eskaliert. (Perfekt)
+b) dokumentierte → Die Abteilung dokumentierte die Abweichung. (Präteritum)
+c) hatte verzögert → Bevor der Ausfall begann, hatte der Lieferant die Lieferung verzögert. (Plusquamperfekt)
+d) werden implementieren → Morgen werden wir den Patch implementieren. (Futur I)
+e) werden wiederhergestellt haben → Bis Freitag werden wir alle Dienste wiederhergestellt haben. (Futur II)
+
+Übung 3: Modalität präzisieren
+Aufgabe: Ergänze müssen, sollen, dürfen, können, möchten, wird (Vermutung).
+
+Wir ___ Abweichungen dokumentieren.
+Du ___ dich mit Stakeholdern abstimmen.
+IngenieurInnen ___ nur nach Tests deployen.
+Wir ___ mit einem Workaround abmildern.
+Ich ___ das Release verschieben.
+Der Dienst ___ bis Mittag stabil sein.
+
+Lösungen:
+
+müssen
+solltest (oder sollen, je nach Höflichkeitsgrad/Plural)
+dürfen
+können
+möchte
+wird (Vermutung)
+
+
+Übung 4: Nebensätze kombinieren
+Aufgabe: Verbinde sinnvoll mit weil, damit, nachdem, wenn, obwohl.
+
+„Wir erweitern den Zeitplan. Die Qualität bleibt hoch. Der Kunde hat den Umfang erhöht. Wir synchronisieren den Plan. Der Druck ist stark. Wir pausieren bei unvollständigen Daten.“
+
+Beispiellösung (glosses):
+Weil (because) der (the) Kunde (client) den (the) Umfang (scope) erhöht (increased) hat (has), erweitern (extend) wir (we) den (the) Zeitplan (timeline), damit (so-that) die (the) Qualität (quality) hoch (high) bleibt (remains). Nachdem (after) wir (we) den (the) Plan (plan) synchronisiert (synchronized) haben (have), fahren (proceed) wir (we) fort (forth); wenn (if) die (the) Daten (data) unvollständig (incomplete) sind (are), pausieren (pause) wir (we). Obwohl (although) der (the) Druck (pressure) stark (strong) ist (is), kommunizieren (communicate) wir (we) transparent (transparently).
+
+Übung 5: Passiv & Nominalisierung
+Aufgabe: Formuliere formell.
+a) „Das Team eskaliert den Vorfall.“
+b) „Wir dokumentieren die Abweichung.“
+c) „Man verschiebt das Release.“
+Lösungen (glossed):
+a) Der (the) Vorfall (incident) wird (is) eskaliert (escalated). (Passiv)
+b) Die (the) Dokumentation (documentation) der (of-the) Abweichung (deviation) wird (is) vorgenommen (carried-out). (Nominalisierung + Passiv)
+c) Die (the) Verschiebung (postponement) des (of-the) Releases (release) wird (is) beantragt (requested). (Nominalisierung + Passiv)
+
+Übung 6: Adverbien einsetzen
+Aufgabe: Setze bereits, noch, erst, gerade, weiterhin, unverzüglich, vorläufig ein.
+A) Wir haben ___ informiert.
+B) Der Dienst ist ___ ausgefallen.
+C) Ich habe ___ die Logs erhalten.
+D) Der Kunde ruft ___ an.
+E) Operations bleibt ___ eingebunden.
+F) Bitte antworten ___.
+G) Die Bedingungen sind ___ akzeptiert.
+Lösungen:
+A) bereits
+B) noch
+C) erst
+D) gerade
+E) weiterhin
+F) unverzüglich
+G) vorläufig
+
+Übung 7: Konfliktlösung formulieren (Konjunktiv II für Höflichkeit)
+Aufgabe: Milder die Aussage: „Verschieben Sie das Release.“
+Musterlösung (glossed):
+Es (it) wäre (would-be) ratsam (advisable), wenn (if) wir (we) das (the) Release (release) verschieben (postpone) würden (would), damit (so-that) die (the) Qualität (quality) gesichert (ensured) ist (is).
+
+Übung 8: Ursachenbericht schreiben
+Aufgabe: Verbinde drei Sätze mit weil, nachdem, daher (Adverb).
+
+„Die Validierung schlug fehl.“
+„Wir testeten erneut.“
+„Der Rollout wurde verschoben.“
+
+Beispiellösung (glossed):
+Weil (because) die (the) Validierung (validation) fehlgeschlagen (failed) ist (is), haben (have) wir (we) erneut (again) getestet (tested); daher (therefore) wurde (was) der (the) Rollout (rollout) verschoben (postponed).
+
+Übung 9: Kommunikations-E-Mail (formell, präzise)
+Aufgabe: Formuliere eine kurze E-Mail über einen Vorfall: Zeit, Ursache, Maßnahme.
+Beispiel (glossed):
+Betreff (subject): Vorfall (incident) am (on) Dienstag (Tuesday) um (at) 10:30 (10:30)
+Sehr (very) geehrte (esteemed) Kolleginnen (colleagues) und (and) Kollegen (colleagues), aufgrund (due-to) eines (an) Ausfalls (outage) im (in-the) Zuliefersystem (supplier-system) kam (came) es (it) zu (to) Verzögerungen (delays); wir (we) haben (have) unverzüglich (immediately) eskaliert (escalated) und (and) testen (test) den (the) Patch (patch) derzeit (currently). Sobald (as-soon-as) die (the) Validierung (validation) abgeschlossen (completed) ist (is), deployen (deploy) wir (we). Vielen (many) Dank (thanks).
+
+Übung 10: Entscheidungslogik ausdrücken
+Aufgabe: Formuliere mit wenn, falls, sofern, es sei denn, trotzdem.
+
+„Wir deployen. Tests sind erfolgreich. Der Kunde hat zugestimmt. Es gibt keine Compliance-Risiken. Risiko bleibt hoch.“
+
+Beispiellösung (glossed):
+Wenn (if) die (the) Tests (tests) erfolgreich (successful) sind (are), falls (if) der (the) Kunde (client) zugestimmt (agreed) hat (has), sofern (provided-that) keine (no) Compliance-Risiken (compliance-risks) bestehen (exist), deployen (deploy) wir (we) trotzdem (nevertheless) nicht (not), es sei denn (unless) das (the) Risiko (risk) ist (is) niedrig (low).
+
+10) Zusammenfassung & Praxistext
+English translation:
+At C1 level, discussing problems at work means controlling prepositions and collocations for precision, deploying tenses to report and plan, using modals to calibrate obligation and recommendation, mastering clause types to explain causes and conditions, and adopting passives/nominalizations for formal tone. Adverbs add timing and stance; polite formulations keep collaboration intact.
+German (glosses):
+Auf (at) C1-Niveau (C1-level) bedeutet (means) das (the) Sprechen (speaking) über (about) Probleme (problems) bei (at) der (the) Arbeit (work), Präpositionen (prepositions) und (and) Kollokationen (collocations) präzise (precisely) zu (to) steuern (control), Tempora (tenses) zum (for) Berichten (reporting) und (and) Planen (planning) einzusetzen (to-deploy), Modalverben (modals) zur (for) Kalibrierung (calibration) von (of) Pflicht (obligation) und (and) Empfehlung (recommendation) anzuwenden (apply), Satztypen (clause-types) zur (to-the) Erklärung (explanation) von (of) Ursachen (causes) und (and) Bedingungen (conditions) zu (to) beherrschen (master), und (and) Passiv (passive)/Nominalisierungen (nominalizations) für (for) formellen (formal) Ton (tone) anzunehmen (adopt).
+Adverbien (adverbs) fügen (add) Timing (timing) und (and) Haltung (stance) hinzu (to); höfliche (polite) Formulierungen (formulations) halten (keep) Zusammenarbeit (collaboration) intakt (intact).
+
+Bonus: Praxistext (vollständige Übersetzung + Glosses)
+English translation (sentence-by-sentence):
+Since Monday, we have observed delays due to supplier changes. In order to secure quality, we extended the timeline and escalated immediately. After we had tested the patch, we documented the deviation. Although pressure was strong, we communicated transparently and paused the rollout. By Friday, we will have restored services and published the root-cause analysis.
+German (glosses):
+Seit (since) Montag (Monday) haben (have) wir (we) Verzögerungen (delays) aufgrund (due-to) von (of) Lieferantenwechseln (supplier-changes) beobachtet (observed).
+Damit (so-that) die (the) Qualität (quality) gesichert (secured) ist (is), haben (have) wir (we) den (the) Zeitplan (timeline) verlängert (extended) und (and) unverzüglich (immediately) eskaliert (escalated).
+Nachdem (after) wir (we) den (the) Patch (patch) getestet (tested) hatten (had), haben (have) wir (we) die (the) Abweichung (deviation) dokumentiert (documented).
+Obwohl (although) der (the) Druck (pressure) stark (strong) war (was), haben (have) wir (we) transparent (transparently) kommuniziert (communicated) und (and) den (the) Rollout (rollout) pausiert (paused).
+Bis (by) Freitag (Friday) werden (will) wir (we) die (the) Dienste (services) wiederhergestellt (restored) haben (have) und (and) die (the) Root-Cause-Analyse (root-cause-analysis) veröffentlicht (published) haben (have).
+
+Mini-Check (Selbsttest)
+
+
+Choose the correct future form:
+Bis Freitag ___ wir alle Dienste ___ .
+Lösung: werden … wiederhergestellt haben → Bis Freitag werden wir alle Dienste wiederhergestellt haben. (Futur II)
+
+
+Explain the nuance:
+„aufgrund“ vs. „wegen“
+Hinweis: wegen (because of) ist neutral/allgemein; aufgrund (due to) wirkt formeller/berichtssprachlich.
+
+
+
+Extra: C1 E-Mail (formell, präzise)
+English translation:
+Subject: Timeline extension due to supplier changes
+Dear stakeholders, due to the incident we escalated immediately; to maintain quality, we propose a timeline extension. As soon as validation is complete, we will proceed. Thank you.
+German (glosses):
+Betreff (subject): Zeitplanverlängerung (timeline-extension) aufgrund (due-to) von (of) Lieferantenwechseln (supplier-changes)
+Sehr (very) geehrte (esteemed) Stakeholder (stakeholders), aufgrund (due-to) des (of-the) Vorfalls (incident) haben (have) wir (we) unverzüglich (immediately) eskaliert (escalated); um (in-order-to) Qualität (quality) zu (to) wahren (maintain), schlagen (propose) wir (we) eine (a) Zeitplanverlängerung (timeline-extension) vor (forth). Sobald (as-soon-as) die (the) Validierung (validation) abgeschlossen (completed) ist (is), fahren (proceed) wir (we) fort (continue). Vielen (many) Dank (thanks).
