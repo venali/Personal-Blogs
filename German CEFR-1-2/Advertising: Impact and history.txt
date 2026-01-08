@@ -1,0 +1,648 @@
+CEFR C1-level German grammar study pack on „Werbung: Wirkung und Geschichte“ (Advertising: Impact and history)
+Inhaltsverzeichnis
+
+Einführung: Medienkompetenz im C1-Kontext
+Präpositionen & Kollokationen (in, auf, über, aus, anhand, mit, gegen, gegenüber)
+Tempus & Aspekt in Medienberichten (Präsens, Präteritum, Perfekt, Plusquamperfekt, Futur I/II)
+Modalität & Nuancen (müssen, sollen, dürfen, können, möchten, werden – Vermutung)
+Komplexe Satzstrukturen (Kausal-, Final-, Konditional-, Konzessiv-, Temporalsätze; indirekte Rede)
+Passiv & Nominalisierung für formellen Berichtsstil
+Adverbiale Präzision (angeblich, offenbar, nachweislich, vermeintlich, mutmaßlich, zugleich)
+Idiomatische Medien-Wendungen (Quelle prüfen, Einordnung, Schlagzeile, Agenda-Setting)
+Mini-Dialoge & Beispieltexte (Interview, Redaktionsmeeting, Leserkommentar)
+Übungen (mit Lösungen)
+Zusammenfassung & Praxistext
+
+
+1) Einführung: Medienkompetenz im C1-Kontext
+English translation (sentence-by-sentence):
+Media literacy requires the ability to analyze sources, identify bias, and communicate results precisely. At C1 level, we use formal structures and nuanced language to discuss credibility and evidence.
+German (with glosses):
+Medienkompetenz (media-literacy) erfordert (requires) die (the) Fähigkeit (ability), Quellen (sources) zu (to) analysieren (analyze), Verzerrungen (biases) zu (to) erkennen (identify), und (and) Ergebnisse (results) präzise (precisely) zu (to) kommunizieren (communicate).
+Auf (at) C1-Niveau (C1-level) nutzen (use) wir (we) formelle (formal) Strukturen (structures) und (and) nuancierte (nuanced) Sprache (language), um (to) Glaubwürdigkeit (credibility) und (and) Evidenz (evidence) zu (to) diskutieren (discuss).
+
+2) Präpositionen & Kollokationen
+English translation:
+Use in for media contexts (“in the article”), auf for platforms (“on the website”), über for topics (“about media ethics”), aus for origins/excerpts, anhand for analytical basis, mit for tools, gegen for opposition, gegenüber for comparison/stance.
+German (glosses):
+Verwenden (use) Sie (you) in (in) für (for) Medienkontexte (media-contexts), auf (on) für (for) Plattformen (platforms), über (about) für (for) Themen (topics), aus (from) für (for) Herkunft (origin)/Auszüge (excerpts), anhand (based-on) für (for) Analysegrundlagen (analytical-basis), mit (with) für (for) Werkzeuge (tools), gegen (against) für (for) Widerspruch (opposition), gegenüber (towards/opposite) für (for) Vergleich (comparison)/Haltung (stance).
+English translation (examples):
+We read the analysis in the journal. The data is available on the website. The commentary is about media ethics. The quotes are from the interview. We evaluate credibility based on criteria.
+German (glosses):
+Wir (we) lesen (read) die (the) Analyse (analysis) in (in) der (the) Zeitschrift (journal).
+Die (the) Daten (data) sind (are) auf (on) der (the) Website (website) verfügbar (available).
+Der (the) Kommentar (commentary) handelt (concerns) über (about) Medienethik (media-ethics).
+Die (the) Zitate (quotes) stammen (originate) aus (from) dem (the) Interview (interview).
+Wir (we) bewerten (evaluate) Glaubwürdigkeit (credibility) anhand (based-on) von (of) Kriterien (criteria).
+English translation (collocations):
+“media coverage,” “editorial policy,” “source verification,” “fact-checking,” “public broadcaster.”
+German (glosses):
+Medienberichterstattung (media-coverage), Redaktionsrichtlinie (editorial-policy), Quellenprüfung (source-verification), Faktencheck (fact-checking), öffentlich-rechtlicher (public) Rundfunk (broadcaster).
+
+3) Tempus & Aspekt in Medienberichten
+English translation:
+Use present for current coverage, perfect for spoken updates, simple past for written reports, past perfect for earlier events, Futur I for plans or assumptions, Futur II for completion by a deadline.
+German (glosses):
+Nutzen (use) Sie (you) das (the) Präsens (present) für (for) aktuelle (current) Berichterstattung (coverage), das (the) Perfekt (perfect) für (for) mündliche (spoken) Updates (updates), das (the) Präteritum (simple-past) für (for) schriftliche (written) Meldungen (reports), das (the) Plusquamperfekt (past-perfect) für (for) frühere (earlier) Ereignisse (events), Futur (future) I (I) für (for) Pläne (plans)/Annahmen (assumptions), Futur (future) II (II) für (for) Abgeschlossenheit (completion) bis (by) zur (to-the) Frist (deadline).
+English translation (examples):
+Today, the broadcaster reports new details. Yesterday, the magazine published an investigation. In the article, the team documented the timeline. Before the interview aired, the editors had verified the quotes. Tomorrow, we will publish the dossier. By Friday, the series will have been completed.
+German (glosses):
+Heute (today) berichtet (reports) der (the) Sender (broadcaster) neue (new) Details (details).
+Gestern (yesterday) hat (has) das (the) Magazin (magazine) eine (an) Recherche (investigation) veröffentlicht (published).
+Im (in-the) Artikel (article) dokumentierte (documented) das (the) Team (team) die (the) Zeitleiste (timeline).
+Bevor (before) das (the) Interview (interview) ausgestrahlt (aired) wurde (was), hatten (had) die (the) Redakteure (editors) die (the) Zitate (quotes) verifiziert (verified).
+Morgen (tomorrow) werden (will) wir (we) das (the) Dossier (dossier) publizieren (publish).
+Bis (by) Freitag (Friday) wird (will) die (the) Serie (series) abgeschlossen (completed) sein (be). (Alternative Futur II: wird abgeschlossen worden sein.)
+
+4) Modalität & Nuancen
+English translation:
+Modals calibrate obligation, recommendation, permission, ability, wish, and assumption in media contexts.
+German (glosses):
+Modalverben (modal-verbs) kalibrieren (calibrate) Pflicht (obligation), Empfehlung (recommendation), Erlaubnis (permission), Fähigkeit (ability), Wunsch (wish), und (and) Annahme (assumption) in (in) Medienkontexten (media-contexts):
+müssen (must) (z. B. JournalistInnen (journalists) müssen Quellen prüfen),
+sollen (should) (z. B. Kommentare sollen ausgewogen sein),
+dürfen (may) (z. B. Nutzende (users) dürfen Inhalte teilen),
+können (can) (z. B. Redaktionen können Fehler korrigieren),
+möchten (would-like) (z. B. Wir möchten Transparenz stärken),
+werden (will/probably) (z. B. Der Bericht wird vermutlich erscheinen).
+English translation (example sentences):
+We must verify sources. Editors should provide context. Users may comment respectfully. Investigators can access archives. I would like to request the dataset. The headline will probably change.
+German (glosses):
+Wir (we) müssen (must) Quellen (sources) verifizieren (verify).
+Redakteure (editors) sollten (should) Kontext (context) liefern (provide).
+Nutzende (users) dürfen (may) respektvoll (respectfully) kommentieren (comment).
+Investigatoren (investigators) können (can) Archive (archives) einsehen (access).
+Ich (I) möchte (would-like) den (the) Datensatz (dataset) anfordern (request).
+Die (the) Schlagzeile (headline) wird (will/probably) sich (itself) ändern (change).
+
+5) Komplexe Satzstrukturen (inkl. indirekte Rede)
+English translation:
+Causal explains reasons; final expresses purpose; conditional sets conditions; concessive admits obstacles; temporal orders events; indirect speech is essential in reporting.
+German (glosses):
+Kausal (causal):
+Weil (because) die (the) Quelle (source) zweifelhaft (dubious) ist (is), müssen (must) wir (we) zusätzliche (additional) Belege (evidence) suchen (seek).
+Final (final):
+Damit (so-that) Leser (readers) informiert (informed) sind (are), stellen (provide) wir (we) Kontext (context) bereit (ready).
+Konditional (conditional):
+Wenn (if) die (the) Daten (data) vollständig (complete) sind (are), werden (will) wir (we) die (the) Analyse (analysis) veröffentlichen (publish).
+Konzessiv (concessive):
+Obwohl (although) der (the) Zeitdruck (time-pressure) hoch (high) ist (is), bleibt (remains) die (the) Qualität (quality) maßgeblich (crucial).
+Temporal (temporal):
+Nachdem (after) die (the) Redaktion (editorial-team) überprüft (checked) hat (has), erscheint (appears) der (the) Beitrag (piece).
+Indirekte Rede (indirect speech):
+English translation:
+The spokesperson said that the investigation would be published tomorrow.
+German (glosses):
+Die (the) Sprecherin (spokesperson-fem.) sagte (said), dass (that) die (the) Untersuchung (investigation) morgen (tomorrow) veröffentlicht (published) würde (would).
+
+6) Passiv & Nominalisierung (formeller Berichtsstil)
+English translation:
+Passive and nominalizations create neutrality and focus on actions rather than agents: “The article was revised,” “The correction is published,” “Verification is required.”
+German (glosses):
+Der (the) Artikel (article) wurde (was) überarbeitet (revised).
+Die (the) Korrektur (correction) wird (is) veröffentlicht (published).
+Die (the) Verifizierung (verification) ist (is) erforderlich (required).
+Die (the) Einordnung (contextualization) wird (is) vorgenommen (carried-out).
+Die (the) Prüfung (audit) der (of-the) Quelle (source) wird (is) durchgeführt (conducted).
+
+7) Adverbiale Präzision
+English translation:
+Use adverbs to express stance and evidence: angeblich (allegedly), offenbar (apparently), nachweislich (demonstrably), vermeintlich (supposedly), mutmaßlich (presumably), zugleich (at-the-same-time).
+German (glosses with examples):
+Die (the) Behauptung (claim) ist (is) angeblich (allegedly) korrekt (correct).
+Die (the) Quelle (source) ist (is) offenbar (apparently) zuverlässig (reliable).
+Die (the) Daten (data) sind (are) nachweislich (demonstrably) konsistent (consistent).
+Die (the) Meldung (report) ist (is) vermeintlich (supposedly) aktuell (current).
+Die (the) Ursache (cause) ist (is) mutmaßlich (presumably) extern (external).
+Die (the) Studie (study) ist (is) zugleich (simultaneously) tief (deep) und (and) zugänglich (accessible).
+
+8) Idiomatische Medien-Wendungen
+
+eine Quelle anzapfen (to tap a source)
+die Schlagzeile setzen (to set the headline)
+die Einordnung liefern (to deliver the contextualization)
+Agenda-Setting betreiben (to influence agenda-setting)
+Reichweite erzielen (to achieve reach)
+die Kommentarspalte moderieren (to moderate the comment section)
+
+Example sentence (with glosses):
+Wir (we) liefern (deliver) die (the) Einordnung (contextualization), damit (so-that) die (the) Berichterstattung (coverage) verständlich (understandable) ist (is), und (and) moderieren (moderate) die (the) Kommentarspalte (comment-section) respektvoll (respectfully).
+
+9) Mini-Dialoge & Beispieltexte
+9.1 Interview (Journalist – Sprecherin)
+English translation (sentence-by-sentence):
+J: Could you explain the editorial policy regarding anonymous sources?
+S: Although anonymity is exceptional, we allow it if the information is verifiable and relevant.
+J: Before publication, do you conduct a fact-check?
+S: Yes—we verify the claims thoroughly and provide context.
+German (glosses):
+J: Könnten (could) Sie (you) die (the) Redaktionsrichtlinie (editorial-policy) bezüglich (regarding) anonymer (anonymous) Quellen (sources) erläutern (explain)?
+S: Obwohl (although) Anonymität (anonymity) ausnahmsweise (exceptional) ist (is), erlauben (allow) wir (we) sie (it), wenn (if) die (the) Informationen (information) verifizierbar (verifiable) und (and) relevant (relevant) sind (are).
+J: Bevor (before) die (the) Veröffentlichung (publication) erfolgt (takes-place), führen (conduct) Sie (you) einen (a) Faktencheck (fact-check) durch (through)?
+S: Ja (yes)—wir (we) verifizieren (verify) die (the) Behauptungen (claims) gründlich (thoroughly) und (and) liefern (provide) Kontext (context).
+
+9.2 Redaktionsmeeting
+English translation:
+A: The headline seems sensational; we should tone it down.
+B: Because the evidence is limited, we will add a context paragraph.
+A: If the dataset is published, we will update the piece promptly.
+German (glosses):
+A: Die (the) Schlagzeile (headline) wirkt (seems) reißerisch (sensational); wir (we) sollten (should) sie (it) abschwächen (tone-down).
+B: Weil (because) die (the) Evidenz (evidence) begrenzt (limited) ist (is), fügen (add) wir (we) einen (a) Kontextabsatz (context-paragraph) hinzu (add).
+A: Wenn (if) der (the) Datensatz (dataset) veröffentlicht (published) wird (is), aktualisieren (update) wir (we) den (the) Beitrag (piece) zeitnah (promptly).
+
+9.3 Leserkommentar – Moderation
+English translation:
+A: Your comment violates our community guidelines.
+B: Understood—could you show me the relevant rule?
+A: Certainly; please edit accordingly.
+German (glosses):
+A: Ihr (your) Kommentar (comment) verstößt (violates) gegen (against) unsere (our) Community-Richtlinien (community-guidelines).
+B: Verstanden (understood)—könnten (could) Sie (you) mir (me) die (the) relevante (relevant) Regel (rule) zeigen (show)?
+A: Gewiss (certainly); bitte (please) bearbeiten (edit) Sie (you) entsprechend (accordingly).
+
+10) Übungen (mit Lösungen)
+Übung 1: Präpositionen präzisieren
+Aufgabe: Ergänze in, auf, über, aus, anhand, mit, gegen, gegenüber sinnvoll.
+
+Die Analyse steht ___ der Zeitschrift.
+Die Daten sind ___ der Website abrufbar.
+Der Bericht handelt ___ Medienethik.
+Die Zitate stammen ___ dem Interview.
+Wir prüfen Glaubwürdigkeit ___ Kriterien.
+Das Team arbeitet ___ Archivquellen.
+Die Redaktion positioniert sich ___ Desinformation.
+Der Kommentar setzt das Thema ___ der bisher üblichen Einordnung.
+
+Lösungen:
+
+in der Zeitschrift
+auf der Website
+über Medienethik
+aus dem Interview
+anhand von Kriterien
+mit Archivquellen
+gegen Desinformation
+gegenüber der bisher üblichen Einordnung
+
+
+Übung 2: Tempuswahl in der Berichterstattung
+Aufgabe: Wähle Präsens, Präteritum, Perfekt, Plusquamperfekt, Futur I, Futur II und formuliere.
+a) (live coverage) Der Sender ___ (melden) neue Details.
+b) (written report) Das Magazin ___ (veröffentlichen) eine Recherche gestern.
+c) (earlier cause) Bevor das Interview ___ (ausstrahlen), die Redaktion ___ (verifizieren) die Zitate.
+d) (plan) Morgen wir ___ (publizieren) das Dossier.
+e) (completion) Bis Freitag die Serie ___ (abschließen) ___ .
+Musterlösungen:
+a) meldet → Der Sender meldet neue Details. (Präsens)
+b) veröffentlichte → Das Magazin veröffentlichte gestern eine Recherche. (Präteritum)
+c) ausgestrahlt wurde / hatte verifiziert → Bevor das Interview ausgestrahlt wurde, hatte die Redaktion die Zitate verifiziert. (Präteritum/Plusquamperfekt)
+d) werden publizieren → Morgen werden wir das Dossier publizieren. (Futur I)
+e) wird abgeschlossen sein / wird abgeschlossen haben → Bis Freitag wird die Serie abgeschlossen sein. (Futur I Ergebniszustand) / … werden wir die Serie abgeschlossen haben. (Futur II)
+
+Übung 3: Modalität nuancieren
+Aufgabe: Ergänze müssen, sollen, dürfen, können, möchten, wird (Vermutung).
+
+Redaktionen ___ Quellen gründlich prüfen.
+Kommentare ___ respektvoll formuliert werden.
+Nutzende ___ Inhalte teilen, wenn sie die Regeln beachten.
+Prüfer ___ Archive einsehen.
+Ich ___ den Datensatz anfordern.
+Die Schlagzeile ___ sich kurzfristig ändern.
+
+Lösungen:
+
+müssen
+sollen
+dürfen
+können
+möchte
+wird (Vermutung)
+
+
+Übung 4: Nebensätze verbinden (kausal/final/konditional/konzessiv/temporal)
+Aufgabe: Verbinde: „Die Evidenz ist begrenzt. Wir liefern Kontext. Wenn der Datensatz erscheint, aktualisieren wir. Obwohl Zeitdruck besteht, bleibt Qualität zentral. Nachdem die Redaktion prüft, erscheint der Beitrag.“
+Beispiellösung (glosses):
+Weil (because) die (the) Evidenz (evidence) begrenzt (limited) ist (is), liefern (provide) wir (we) Kontext (context), damit (so-that) Leser (readers) informiert (informed) sind (are). Wenn (if) der (the) Datensatz (dataset) erscheint (appears), aktualisieren (update) wir (we) den (the) Beitrag (piece), obwohl (although) Zeitdruck (time-pressure) besteht (exists), bleibt (remains) Qualität (quality) zentral (central). Nachdem (after) die (the) Redaktion (editorial-team) prüft (checks), erscheint (appears) der (the) Beitrag (piece).
+
+Übung 5: Indirekte Rede
+Aufgabe: Formuliere indirekt: „Die Sprecherin: ‚Wir veröffentlichen das Dossier morgen.‘“
+Lösung (glossed):
+Die (the) Sprecherin (spokesperson) sagte (said), dass (that) sie (they) das (the) Dossier (dossier) morgen (tomorrow) veröffentlichen (publish) würden (would).
+
+Übung 6: Passiv & Nominalisierung
+Aufgabe: Formuliere formell.
+a) „Wir korrigieren den Fehler.“
+b) „Die Redaktion prüft die Quelle.“
+c) „Man liefert die Einordnung.“
+Lösungen:
+a) Der (the) Fehler (error) wird (is) korrigiert (corrected). (Passiv)
+b) Die (the) Prüfung (verification) der (of-the) Quelle (source) wird (is) durchgeführt (conducted). (Nominalisierung + Passiv)
+c) Die (the) Einordnung (contextualization) wird (is) bereitgestellt (provided). (Nominalisierung + Passiv)
+
+Übung 7: Adverbien präzisieren
+Aufgabe: Setze angeblich, offenbar, nachweislich, vermeintlich, mutmaßlich, zugleich ein.
+A) Die Behauptung ist ___ korrekt.
+B) Die Quelle wirkt ___ zuverlässig.
+C) Die Daten sind ___ konsistent.
+D) Die Meldung ist ___ aktuell.
+E) Die Ursache ist ___ extern.
+F) Die Analyse ist ___ kritisch und zugänglich.
+Lösungen:
+A) angeblich
+B) offenbar
+C) nachweislich
+D) vermeintlich
+E) mutmaßlich
+F) zugleich
+
+Übung 8: Idiomatik – passende Wendung
+Aufgabe: Ergänze die passende Wendung:
+
+„Die Redaktion ___ die Kommentarspalte.“
+„Die Schlagzeile ___.“
+„Wir ___ Reichweite.“
+
+Lösungen:
+
+moderiert die Kommentarspalte
+setzt die Schlagzeile
+erzielen Reichweite
+
+
+Übung 9: Register – formal vs. neutral
+Aufgabe: Formuliere formell (Passiv, Nominalisierung) und neutral.
+
+Inhalt: „Bitte aktualisieren Sie den Beitrag, sobald der Datensatz erscheint.“
+
+Beispiellösungen:
+Formell: Die (the) Aktualisierung (update) des (of-the) Beitrags (piece) wird (is) vorgenommen (carried-out), sobald (as-soon-as) der (the) Datensatz (dataset) erscheint (appears).
+Neutral: Bitte (please) aktualisieren (update) Sie (you) den (the) Beitrag (piece), sobald (as-soon-as) der (the) Datensatz (dataset) erscheint (appears).
+
+Übung 10: Kurzkommentar strukturieren
+Aufgabe: Verbinde mit weil, obwohl, damit und nutze ein Adverb (z. B. „nachweislich“).
+
+„Die Quelle ist zuverlässig. Evidenz ist begrenzt. Leser sollen Kontext bekommen.“
+
+Beispiellösung (glosses):
+Obwohl (although) die (the) Quelle (source) zuverlässig (reliable) ist (is), ist (is) die (the) Evidenz (evidence) begrenzt (limited); damit (so-that) Leser (readers) informiert (informed) sind (are), liefern (provide) wir (we) nachweislich (demonstrably) fundierten (well-founded) Kontext (context).
+
+11) Zusammenfassung & Praxistext
+English translation:
+At C1, media discourse demands precise prepositions and collocations, tense control for reporting sequences, modal nuance for policy and assumptions, complex clauses (including indirect speech), and formal tools (passive and nominalization). Adverbs help express stance and evidential strength; idioms convey professional practice.
+German (glosses):
+Auf (at) C1-Niveau (C1-level) erfordert (requires) der (the) Mediendiskurs (media-discourse) präzise (precise) Präpositionen (prepositions) und (and) Kollokationen (collocations), Tempusbeherrschung (tense-control) für (for) Berichtssequenzen (reporting-sequences), modale (modal) Nuancierung (nuance) für (for) Richtlinien (policy) und (and) Annahmen (assumptions), komplexe (complex) Nebensätze (subordinate-clauses) einschließlich (including) indirekter (indirect) Rede (speech), sowie (as-well-as) formelle (formal) Mittel (tools) (Passiv (passive), Nominalisierung (nominalization)).
+Adverbien (adverbs) drücken (express) Haltung (stance) und (and) Evidenzstärke (evidential-strength) aus (out); Idiome (idioms) vermitteln (convey) berufliche (professional) Praxis (practice).
+
+Bonus: Praxistext (vollständige Übersetzung + Glosses)
+English translation (sentence-by-sentence):
+Since Monday, the public broadcaster has published a series on media literacy. Although time pressure is high, the editors provide context and verify sources demonstrably. Before the interviews are aired, all quotes are checked. If the dataset is released tomorrow, the piece will be updated promptly. By Friday, the series will have been completed and the corrections will be published.
+German (glosses):
+Seit (since) Montag (Monday) hat (has) der (the) öffentlich-rechtliche (public) Rundfunk (broadcaster) eine (a) Serie (series) über (about) Medienkompetenz (media-literacy) veröffentlicht (published).
+Obwohl (although) der (the) Zeitdruck (time-pressure) hoch (high) ist (is), liefern (provide) die (the) Redakteure (editors) Kontext (context) und (and) verifizieren (verify) Quellen (sources) nachweislich (demonstrably).
+Bevor (before) die (the) Interviews (interviews) ausgestrahlt (aired) werden (are), werden (are) alle (all) Zitate (quotes) geprüft (checked).
+Wenn (if) der (the) Datensatz (dataset) morgen (tomorrow) veröffentlicht (released) wird (is), wird (will) der (the) Beitrag (piece) zeitnah (promptly) aktualisiert (updated).
+Bis (by) Freitag (Friday) wird (will) die (the) Serie (series) abgeschlossen (completed) sein (be) und (and) die (the) Korrekturen (corrections) werden (will) veröffentlicht (published) sein (be).
+
+Mini-Check (Selbsttest)
+
+
+Choose the correct clause type:
+___ die Evidenz begrenzt ist, liefern wir Kontext, ___ Leser informiert sind.
+Lösung: Weil … damit … → Weil die Evidenz begrenzt ist, liefern wir Kontext, damit Leser informiert sind.
+
+
+Tell the nuance:
+„vermeintlich“ vs. „nachweislich“
+Hinweis: vermeintlich = supposedly (claim without proof); nachweislich = demonstrably (supported by evidence).
+
+
+
+Extra: Formelle E-Mail-Vorlage (C1, Medienkontext)
+English translation:
+Subject: Request: dataset and editorial policy
+Dear editorial team, would it be possible to share the dataset and the policy on anonymous sources? We will verify citations demonstrably and provide context accordingly. Thank you.
+German (glosses):
+Betreff (subject): Anfrage (request): Datensatz (dataset) und (and) Redaktionsrichtlinie (editorial-policy)
+Sehr (very) geehrtes (esteemed) Redaktionsteam (editorial-team), wäre (would-be) es (it) möglich (possible), den (the) Datensatz (dataset) und (and) die (the) Richtlinie (policy) zu (to) anonymen (anonymous) Quellen (sources) zu (to) teilen (share)?
+Wir (we) werden (will) Zitate (citations) nachweislich (demonstrably) verifizieren (verify) und (and) Kontext (context) entsprechend (accordingly) bereitstellen (provide).
+Vielen (many) Dank (thanks).
+
+If you’d like, I can convert this into a printable PDF or add advanced exercises focused on editorial style, bias detection, and indirect speech—perhaps tailored to analytics-oriented media (dashboards, audience metrics)?
+Provide your feedback on BizChatYou said: Prepare 2000 word study material here in chat broken down into sections for CEFR C1-level German Grammar topic "Advertising: Impact and history". Give full word by word translation within text and also sentence by sentence by sentence translation just above the text. Include answer for exercises. Deliver the entire 2000-word material in one single message. e.g. ich (I) bin (am) Copilot said: CopilotReasoned for 1sCrafting the materialAbsolutely, Venali! Here’s a comprehensive ~2000-word CEFR C1-level German grammar study pack on „Werbung: Wirkung und Geschichte“ (Advertising: Impact and history)—with sentence-by-sentence English translations placed directly above each German text and word-by-word glosses inside the German sentences (e.g., ich (I) bin (am)). It’s broken into clear sections and includes exercises with full answers.
+
+📚 CEFR C1 German Grammar Study Material
+Topic: Werbung: Wirkung und Geschichte (Advertising: Impact and history)
+Length: ~2000 words
+Focus: Advanced grammar for discussing historical development, analyzing impact, evaluating ethics, and structuring arguments in formal and neutral registers.
+
+Inhaltsverzeichnis
+
+Einführung: Werbung im C1-Kontext
+Präpositionen & Kollokationen (über, in, auf, anhand, mit, gegenüber, gegen)
+Tempus & Aspekt: historische Darstellung und Wirkung (Präsens, Präteritum, Perfekt, Plusquamperfekt, Futur I/II)
+Modalität & Nuancen: müssen, sollen, dürfen, können, möchten, werden (Vermutung)
+Komplexe Satzstrukturen: Kausal-, Final-, Konditional-, Konzessiv-, Temporalsätze; indirekte Rede
+Passiv & Nominalisierung: formeller Stil in Analysen
+Adverbiale Präzision & Bewertung (nachweislich, mutmaßlich, sichtbar, nachhaltig, kurzfristig, zugleich)
+Idiomatische Wendungen (Zielgruppe, Markenbildung, Reichweite, Kaufimpuls, Werbewirkung)
+Mini-Dialoge & kurze Beispieltexte
+Übungen (mit Lösungen)
+Zusammenfassung & Praxistext
+
+
+1) Einführung: Werbung im C1-Kontext
+English translation (sentence-by-sentence):
+Advertising connects products with emotions and shapes consumer decisions. At C1 level, we analyze effects, trace historical developments, and evaluate ethical implications with nuanced grammar.
+German (with glosses):
+Werbung (advertising) verknüpft (connects) Produkte (products) mit (with) Emotionen (emotions) und (and) prägt (shapes) Konsumentscheidungen (consumer-decisions).
+Auf (at) C1-Niveau (C1-level) analysieren (analyze) wir (we) Wirkungen (effects), verfolgen (trace) historische (historical) Entwicklungen (developments), und (and) bewerten (evaluate) ethische (ethical) Implikationen (implications) mit (with) nuancierter (nuanced) Grammatik (grammar).
+
+2) Präpositionen & Kollokationen
+English translation:
+Use über for topics, in for media/channel, auf for platforms, anhand for analytical criteria, mit for tools/strategies, gegen for opposition (e.g., regulation against misleading ads), gegenüber for comparison (e.g., TV vs. social media).
+German (glosses):
+Verwenden (use) Sie (you) über (about) für (for) Themen (topics), in (in) für (for) Medium (medium)/Kanal (channel), auf (on) für (for) Plattformen (platforms), anhand (based-on) für (for) Kriterien (criteria), mit (with) für (for) Werkzeuge (tools)/Strategien (strategies), gegen (against) für (for) Gegenmaßnahmen (countermeasures), gegenüber (compared-to) für (for) Vergleich (comparison).
+English translation (examples):
+We speak about advertising ethics in the report. Ads run on social media. Credibility is evaluated based on evidence. We measure impact with surveys. Compared to television, online ads allow targeting.
+German (glosses):
+Wir (we) sprechen (speak) über (about) Werbeethik (advertising-ethics) in (in) dem (the) Bericht (report).
+Werbeanzeigen (ads) laufen (run) auf (on) sozialen (social) Medien (media).
+Glaubwürdigkeit (credibility) wird (is) anhand (based-on) von (of) Evidenz (evidence) bewertet (evaluated).
+Wir (we) messen (measure) Wirkung (impact) mit (with) Umfragen (surveys).
+Gegenüber (compared-to) dem (the) Fernsehen (television) ermöglichen (enable) Online-Anzeigen (online-ads) Targeting (targeting).
+
+3) Tempus & Aspekt: historische Darstellung und Wirkung
+English translation:
+Present highlights general truths and current practices; simple past is typical in written history; perfect is common in spoken accounts; past perfect marks earlier causes; Futur I indicates plans or assumptions; Futur II marks completed impact by a future date.
+German (glosses):
+Das (the) Präsens (present) betont (emphasizes) allgemeine (general) Wahrheiten (truths) und (and) aktuelle (current) Praktiken (practices); das (the) Präteritum (simple-past) ist (is) typisch (typical) in (in) schriftlicher (written) Geschichte (history); das (the) Perfekt (perfect) kommt (occurs) häufig (frequently) in (in) mündlichen (spoken) Darstellungen (accounts) vor (forth); das (the) Plusquamperfekt (past-perfect) markiert (marks) frühere (earlier) Ursachen (causes); Futur (future) I (I) signalisiert (indicates) Pläne (plans)/Annahmen (assumptions); Futur (future) II (II) kennzeichnet (marks) abgeschlossene (completed) Wirkung (impact) bis (by) zu (to) einem (a) Zeitpunkt (date).
+English translation (historical timeline examples):
+In the 19th century, printed ads expanded in newspapers. In the early 20th century, radio advertising emerged. Before TV became widespread, radio had already shaped consumer habits. Today, digital platforms dominate. By next year, targeted formats will probably have increased reach.
+German (glosses):
+Im (in-the) 19. (19th) Jahrhundert (century) weiteten (expanded) sich (themselves) gedruckte (printed) Anzeigen (ads) in (in) Zeitungen (newspapers) aus (out).
+Im (in-the) frühen (early) 20. (20th) Jahrhundert (century) entstand (emerged) Radiowerbung (radio-advertising).
+Bevor (before) das (the) Fernsehen (TV) weit (widely) verbreitet (spread) war (was), hatte (had) das (the) Radio (radio) bereits (already) Konsumgewohnheiten (consumer-habits) geprägt (shaped).
+Heute (today) dominieren (dominate) digitale (digital) Plattformen (platforms).
+Bis (by) nächstes (next) Jahr (year) werden (will) zielgerichtete (targeted) Formate (formats) wahrscheinlich (probably) Reichweite (reach) gesteigert (increased) haben (have).
+
+4) Modalität & Nuancen
+English translation:
+Modals shape policy, ethics, feasibility, and assumptions: must (obligation), should (recommendation), may (permission), can (capability), would like (wish), will (assumption).
+German (glosses):
+Modalverben (modal-verbs) gestalten (shape) Richtlinien (policies), Ethik (ethics), Machbarkeit (feasibility), und (and) Annahmen (assumptions):
+müssen (must), sollen (should), dürfen (may), können (can), möchten (would-like), werden (will/probably).
+English translation (examples):
+Advertisers must avoid misleading claims. Brands should disclose sponsorships. Users may opt out of tracking. Researchers can measure impact statistically. I would like to analyze historical campaigns. The market will probably react quickly.
+German (glosses):
+Werbetreibende (advertisers) müssen (must) irreführende (misleading) Aussagen (claims) vermeiden (avoid).
+Marken (brands) sollen (should) Sponsoring (sponsorships) offenlegen (disclose).
+Nutzende (users) dürfen (may) Tracking (tracking) abwählen (opt-out).
+Forscher (researchers) können (can) Wirkung (impact) statistisch (statistically) messen (measure).
+Ich (I) möchte (would-like) historische (historical) Kampagnen (campaigns) analysieren (analyze).
+Der (the) Markt (market) wird (will/probably) rasch (quickly) reagieren (react).
+
+5) Komplexe Satzstrukturen: Kausal, Final, Konditional, Konzessiv, Temporal; indirekte Rede
+English translation:
+Causal explains reasons; final expresses purpose; conditional sets conditions; concessive admits obstacles; temporal orders events; indirect speech is essential in reporting and analysis.
+German (glosses):
+Weil (because) Suggestion (suggestion) wirksam (effective) ist (is), nutzen (use) Kampagnen (campaigns) Emotionen (emotions).
+Damit (so-that) Transparenz (transparency) gewahrt (maintained) wird (is), werden (are) Hinweise (disclosures) ergänzt (added).
+Wenn (if) Daten (data) vollständig (complete) sind (are), können (can) wir (we) Wirkung (impact) präzise (precisely) bestimmen (determine).
+Obwohl (although) Budgets (budgets) knapp (tight) sind (are), bleibt (remains) die (the) Qualität (quality) zentral (central).
+Nachdem (after) die (the) Kampagne (campaign) gestartet (started) hat (has), beobachten (observe) wir (we) Reaktionen (reactions).
+Indirekte Rede (indirect speech):
+English translation:
+The agency stated that the campaign would increase brand awareness.
+German (glosses):
+Die (the) Agentur (agency) erklärte (stated), dass (that) die (the) Kampagne (campaign) Markenbekanntheit (brand-awareness) steigern (increase) würde (would).
+
+6) Passiv & Nominalisierung: formeller Stil
+English translation:
+Passive and nominalizations create neutrality and highlight processes: “The campaign was launched,” “Disclosure is required,” “Impact measurement is conducted,” “Regulation is enforced.”
+German (glosses):
+Die (the) Kampagne (campaign) wurde (was) gestartet (launched).
+Die (the) Offenlegung (disclosure) ist (is) erforderlich (required).
+Die (the) Wirkungsmessung (impact-measurement) wird (is) durchgeführt (conducted).
+Die (the) Regulierung (regulation) wird (is) durchgesetzt (enforced).
+English translation (formal line):
+In the report, historical development is presented and ethical guidelines are discussed.
+German (glosses):
+Im (in-the) Bericht (report) wird (is) historische (historical) Entwicklung (development) dargestellt (presented) und (and) ethische (ethical) Leitlinien (guidelines) werden (are) erörtert (discussed).
+
+7) Adverbiale Präzision & Bewertung
+English translation:
+Adverbs sharpen stance and evidence: nachweislich (demonstrably), mutmaßlich (presumably), sichtbar (visibly), nachhaltig (sustainably), kurzfristig (short-term), zugleich (simultaneously).
+German (glosses with examples):
+Die (the) Reichweite (reach) stieg (rose) nachweislich (demonstrably).
+Die (the) Ursache (cause) ist (is) mutmaßlich (presumably) multikanalig (multi-channel).
+Die (the) Wirkung (impact) ist (is) sichtbar (visible) in (in) den (the) Kennzahlen (metrics).
+Die (the) Effekte (effects) waren (were) kurzfristig (short-term) und (and) zugleich (simultaneously) nachhaltig (sustainable) in (in) der (the) Markenwahrnehmung (brand-perception).
+
+8) Idiomatische Wendungen (Marketing/Media)
+
+Zielgruppe (target audience)
+Markenbildung (brand-building)
+Reichweite (reach)
+Kaufimpuls (purchase impulse)
+Werbewirkung (advertising impact)
+Call-to-Action (CTA)
+Conversion-Rate (conversion rate)
+Medienmix (media mix)
+
+Example sentence (with glosses):
+Die (the) Kampagne (campaign) kombiniert (combines) Medienmix (media-mix) und (and) präzisen (precise) Call-to-Action (CTA), um (to) die (the) Conversion-Rate (conversion-rate) zu (to) erhöhen (increase).
+
+9) Mini-Dialoge & kurze Beispieltexte
+9.1 Historischer Überblick (Narration)
+English translation (sentence-by-sentence):
+A: In the 19th century, printed ads in newspapers expanded.
+B: Before radio became popular, posters dominated public space.
+A: Later, TV commercials shaped mass consumption.
+B: Today, data-driven formats influence behavior in real time.
+German (glosses):
+A: Im (in-the) 19. (19th) Jahrhundert (century) weiteten (expanded) sich (themselves) gedruckte (printed) Anzeigen (ads) in (in) Zeitungen (newspapers) aus (out).
+B: Bevor (before) das (the) Radio (radio) populär (popular) wurde (became), prägten (shaped) Plakate (posters) den (the) öffentlichen (public) Raum (space).
+A: Später (later) prägten (shaped) TV-Spots (TV-commercials) den (the) Massenkonsum (mass-consumption).
+B: Heute (today) beeinflussen (influence) datengetriebene (data-driven) Formate (formats) Verhalten (behavior) in (in) Echtzeit (real-time).
+
+9.2 Wirkungsanalyse (Formal evaluation)
+English translation:
+A: Because the call-to-action is clear, conversions increased demonstrably.
+B: If we add disclosures, trust improves.
+A: Although costs rise, long-term brand value remains central.
+German (glosses):
+A: Weil (because) der (the) Call-to-Action (CTA) klar (clear) ist (is), stiegen (increased) Conversions (conversions) nachweislich (demonstrably).
+B: Wenn (if) wir (we) Offenlegungen (disclosures) ergänzen (add), verbessert (improves) sich (itself) Vertrauen (trust).
+A: Obwohl (although) Kosten (costs) steigen (rise), bleibt (remains) langfristiger (long-term) Markenwert (brand-value) zentral (central).
+
+9.3 Ethik & Regulierung (Discussion)
+English translation:
+A: Advertisers must avoid manipulative tactics.
+B: The regulator stated that transparency would be enforced.
+A: In order to protect consumers, misleading claims are prohibited.
+German (glosses):
+A: Werbetreibende (advertisers) müssen (must) manipulative (manipulative) Taktiken (tactics) vermeiden (avoid).
+B: Die (the) Behörde (regulator) erklärte (stated), dass (that) Transparenz (transparency) durchgesetzt (enforced) würde (would).
+A: Damit (so-that) Verbraucher (consumers) geschützt (protected) sind (are), werden (are) irreführende (misleading) Aussagen (claims) verboten (prohibited).
+
+10) Übungen (mit Lösungen)
+Übung 1: Präpositionen präzisieren
+Aufgabe: Ergänze über, in, auf, anhand, mit, gegenüber, gegen sinnvoll.
+
+Wir diskutieren ___ Werbewirkung ___ dem Bericht.
+Anzeigen laufen ___ sozialen Plattformen.
+Glaubwürdigkeit wird ___ Evidenz bewertet.
+Wir messen Effekte ___ Umfragen.
+___ dem Fernsehen ermöglichen Online-Formate Targeting.
+Die Richtlinie richtet sich ___ irreführende Werbung.
+
+Lösungen:
+
+über Werbewirkung in dem Bericht
+auf sozialen Plattformen
+anhand von Evidenz
+mit Umfragen
+Gegenüber dem Fernsehen
+gegen irreführende Werbung
+
+
+Übung 2: Tempuswahl – Geschichte & Wirkung
+Aufgabe: Wähle Präsens, Präteritum, Perfekt, Plusquamperfekt, Futur I, Futur II passend.
+a) (historisch) Im 19. Jahrhundert ___ (entstehen) Annoncen in Zeitungen.
+b) (frühere Ursache) Bevor TV ___ (dominieren), Radio ___ (prägen) Gewohnheiten.
+c) (heute) Digitale Kanäle ___ (ermöglichen) Targeting in Echtzeit.
+d) (Plan) Morgen wir ___ (veröffentlichen) die Wirkungsanalyse.
+e) (Abgeschlossenheit) Bis nächstes Jahr ___ (steigen) die Reichweiten ___ .
+Musterlösungen:
+a) entstanden → Im 19. Jahrhundert entstanden Annoncen in Zeitungen. (Präteritum)
+b) dominierte / hatte geprägt → Bevor TV dominierte, hatte Radio Gewohnheiten geprägt. (Präteritum/Plusquamperfekt)
+c) ermöglichen → Digitale Kanäle ermöglichen Targeting in Echtzeit. (Präsens)
+d) werden veröffentlichen → Morgen werden wir die Wirkungsanalyse veröffentlichen. (Futur I)
+e) werden gestiegen sein / werden gestiegen haben → Bis nächstes Jahr werden die Reichweiten gestiegen sein. (Futur I Zustand) / … werden wir die Reichweiten gesteigert haben. (Futur II)
+
+Übung 3: Modalität & Nuance
+Aufgabe: Ergänze müssen, sollen, dürfen, können, möchten, wird (Vermutung).
+
+Werbetreibende ___ manipulative Taktiken vermeiden.
+Marken ___ Sponsoring offenlegen.
+Nutzende ___ Tracking abwählen.
+Forschende ___ Wirkung statistisch messen.
+Ich ___ historische Kampagnen vergleichen.
+Der Markt ___ kurzfristig reagieren.
+
+Lösungen:
+
+müssen
+sollen
+dürfen
+können
+möchte
+wird (Vermutung)
+
+
+Übung 4: Nebensätze (kausal/final/konditional/konzessiv/temporal)
+Aufgabe: Verbinde: „CTA ist klar. Conversions steigen. Wenn Offenlegung erfolgt, Vertrauen verbessert sich. Obwohl Kosten steigen, bleibt Markenwert zentral. Nachdem die Kampagne startet, messen wir Wirkung.“
+Beispiellösung (glosses):
+Weil (because) der (the) CTA (CTA) klar (clear) ist (is), steigen (rise) Conversions (conversions). Wenn (if) Offenlegung (disclosure) erfolgt (occurs), verbessert (improves) sich (itself) Vertrauen (trust). Obwohl (although) Kosten (costs) steigen (rise), bleibt (remains) Markenwert (brand-value) zentral (central). Nachdem (after) die (the) Kampagne (campaign) startet (starts), messen (measure) wir (we) Wirkung (impact).
+
+Übung 5: Indirekte Rede – Agentur
+Aufgabe: Formuliere: „Die Agentur: ‚Wir erhöhen die Reichweite deutlich.‘“ indirekt.
+Lösung (glossed):
+Die (the) Agentur (agency) teilte (reported) mit (with), dass (that) sie (they) die (the) Reichweite (reach) deutlich (significantly) erhöhen (increase) würden (would).
+
+Übung 6: Passiv & Nominalisierung – formeller Stil
+Aufgabe: Schreibe formell.
+a) „Das Team startet die Kampagne.“
+b) „Man misst die Wirkung.“
+c) „Die Behörde setzt Transparenz durch.“
+Lösungen:
+a) Die (the) Kampagne (campaign) wird (is) gestartet (launched). (Passiv)
+b) Die (the) Wirkungsmessung (impact-measurement) wird (is) durchgeführt (conducted). (Nominalisierung + Passiv)
+c) Die (the) Transparenz (transparency) wird (is) durchgesetzt (enforced). (Passiv)
+
+Übung 7: Adverbien präzisieren
+Aufgabe: Setze nachweislich, mutmaßlich, sichtbar, nachhaltig, kurzfristig, zugleich ein.
+A) Die Conversion-Rate stieg ___ .
+B) Die Ursache ist ___ multi-faktoriell.
+C) Die Effekte sind ___ in den Kennzahlen.
+D) Die Wirkung bleibt ___ relevant.
+E) Wir verzeichnen ___ Anstiege; ___ stärkt sich die Markenwahrnehmung.
+Lösungen:
+A) nachweislich
+B) mutmaßlich
+C) sichtbar
+D) nachhaltig
+E) kurzfristig; zugleich
+
+Übung 8: Idiomatik – Marketingbegriffe
+Aufgabe: Ergänze die passende Wendung.
+
+Die Kampagne zielt auf die ___ ab.
+Der Medienmix erhöht die ___.
+Der CTA löst ___ aus.
+
+Lösungen:
+
+Zielgruppe
+Reichweite
+Kaufimpuls
+
+
+Übung 9: Register – formal vs. neutral
+Aufgabe: Formuliere formell (Passiv/Nominalisierung) und neutral.
+
+Inhalt: „Bitte veröffentlichen Sie die Offenlegung auf der Kampagnenseite.“
+
+Beispiellösungen:
+Formell: Die (the) Offenlegung (disclosure) wird (is) auf (on) der (the) Kampagnenseite (campaign-page) veröffentlicht (published).
+Neutral: Bitte (please) veröffentlichen (publish) Sie (you) die (the) Offenlegung (disclosure) auf (on) der (the) Kampagnenseite (campaign-page).
+
+Übung 10: Argumentation strukturieren
+Aufgabe: Verbinde mit weil, obwohl, damit und nutze ein Modalverb.
+
+„Daten sind vollständig. Wir messen Wirkung. Kosten sind hoch. Leser sollen informiert sein.“
+
+Beispiellösung (glosses):
+Weil (because) Daten (data) vollständig (complete) sind (are), können (can) wir (we) Wirkung (impact) messen (measure); obwohl (although) Kosten (costs) hoch (high) sind (are), liefern (provide) wir (we) Kontext (context), damit (so-that) Leser (readers) informiert (informed) sind (are).
+
+11) Zusammenfassung & Praxistext
+English translation:
+At C1 level, discussing advertising’s impact and history requires precise prepositions and collocations, tense control for historical sequences and impact reporting, modal nuance for policy and ethics, complex clause mastery (including indirect speech), and formal devices like passive and nominalization. Adverbs add evidential strength; idioms articulate professional concepts.
+German (glosses):
+Auf (at) C1-Niveau (C1-level) erfordert (requires) die (the) Diskussion (discussion) von (of) Werbewirkung (advertising-impact) und (and) Geschichte (history) präzise (precise) Präpositionen (prepositions) und (and) Kollokationen (collocations), Tempusbeherrschung (tense-control) für (for) historische (historical) Sequenzen (sequences) und (and) Wirkungsberichte (impact-reporting), modale (modal) Nuancierung (nuance) für (for) Richtlinien (policies) und (and) Ethik (ethics), sowie (as-well-as) komplexe (complex) Satzstrukturen (clause-structures) einschließlich (including) indirekter (indirect) Rede (speech).
+Formelle (formal) Mittel (devices) wie (such-as) Passiv (passive) und (and) Nominalisierung (nominalization) erhöhen (increase) Neutralität (neutrality); Adverbien (adverbs) stärken (strengthen) Evidenz (evidence); Idiome (idioms) präzisieren (articulate) professionelle (professional) Konzepte (concepts).
+
+Bonus: Praxistext (vollständige Übersetzung + Glosses)
+English translation (sentence-by-sentence):
+Since the late 19th century, advertising has influenced consumption through printed media. Before television dominated, radio had already shaped habits. Today, digital formats demonstrably increase reach and trigger purchase impulses. Although costs rise, transparency improves trust; as soon as disclosures are added, conversions remain stable. By next year, targeted formats will have increased long-term brand value.
+German (glosses):
+Seit (since) dem (the) späten (late) 19. (19th) Jahrhundert (century) hat (has) Werbung (advertising) den (the) Konsum (consumption) durch (through) gedruckte (printed) Medien (media) beeinflusst (influenced).
+Bevor (before) das (the) Fernsehen (television) dominierte (dominated), hatte (had) das (the) Radio (radio) bereits (already) Gewohnheiten (habits) geprägt (shaped).
+Heute (today) erhöhen (increase) digitale (digital) Formate (formats) nachweislich (demonstrably) Reichweite (reach) und (and) lösen (trigger) Kaufimpulse (purchase-impulses) aus (out).
+Obwohl (although) Kosten (costs) steigen (rise), verbessert (improves) Transparenz (transparency) Vertrauen (trust); sobald (as-soon-as) Offenlegungen (disclosures) ergänzt (added) werden (are), bleiben (remain) Conversions (conversions) stabil (stable).
+Bis (by) nächstes (next) Jahr (year) werden (will) zielgerichtete (targeted) Formate (formats) langfristigen (long-term) Markenwert (brand-value) gesteigert (increased) haben (have).
+
+Mini-Check (Selbsttest)
+
+
+Choose the correct tense and clause:
+___ Radio dominierte, ___ TV Gewohnheiten geprägt.
+Lösung: Bevor … hatte … → Bevor TV dominierte, hatte Radio Gewohnheiten geprägt.
+
+
+Nuance question:
+„mutmaßlich“ vs. „nachweislich“
+Hinweis: mutmaßlich = presumably (inference without strong proof); nachweislich = demonstrably (supported by evidence).
+
+
+
+Extra: Formelle E-Mail-Vorlage (C1 – Marketing/Analytik)
+English translation:
+Subject: Request: impact measurement and disclosure policy
+Dear team, would it be possible to share the impact measurement methodology and the disclosure policy? We will evaluate conversions demonstrably and provide contextualized results. Thank you.
+German (glosses):
+Betreff (subject): Anfrage (request): Wirkungsmessung (impact-measurement) und (and) Offenlegungspolitik (disclosure-policy)
+Sehr (very) geehrtes (esteemed) Team (team), wäre (would-be) es (it) möglich (possible), die (the) Methodik (methodology) der (of-the) Wirkungsmessung (impact-measurement) und (and) die (the) Offenlegungspolitik (disclosure-policy) zu (to) teilen (share)?
+Wir (we) werden (will) Conversions (conversions) nachweislich (demonstrably) bewerten (evaluate) und (and) kontextualisierte (contextualized) Ergebnisse (results) bereitstellen (provide).
+Vielen (many) Dank (thanks).
