@@ -1,0 +1,313 @@
+CEFR C1-level German grammar study pack on „Terminvereinbarungen“ (Arranging appointments)
+Inhaltsverzeichnis
+
+Einführung: Terminvereinbarungen als C1-Kompetenz
+Präzise Zeitangaben: Präpositionen und Muster (am, um, im, ab, bis, gegen, zwischen, innerhalb)
+Modalität & Höflichkeit: sollen, könnten, möchten, dürften, würden; Konjunktiv II
+Komplexe Strukturen: Temporale, Konditionale, Konzessive, Finalsätze
+Passiv & Nominalisierung: formelle Termin-Sprache
+Adverbiale Nuancen: rechtzeitig, kurzfristig, zeitnah, verbindlich, vorläufig, nachträglich
+Zeitverschiebung und Zeitzonen (inkl. Kalender-Sprache)
+Mini-Dialoge (Telefon, E-Mail, Chat)
+Übungen (mit Lösungen)
+Zusammenfassung & Praxistext
+
+
+1) Einführung: Terminvereinbarungen als C1-Kompetenz
+English translation (sentence-by-sentence):
+At C1 level, arranging appointments requires precise time expressions, polite modal structures, and clear sequencing. We propose, negotiate, confirm, and document appointments efficiently.
+German (with word-by-word glosses):
+Auf (at) C1-Niveau (C1-level) erfordert (requires) die (the) Terminvereinbarung (arranging-appointments) präzise (precise) Zeitangaben (time-expressions), höfliche (polite) Modalstrukturen (modal-structures), und (and) klare (clear) Abfolge (sequencing).
+Wir (we) schlagen (propose), verhandeln (negotiate), bestätigen (confirm), und (and) dokumentieren (document) Termine (appointments) effizient (efficiently).
+
+2) Präzise Zeitangaben: Präpositionen und Muster
+English translation:
+Use am for days/dates, um for exact times, im for months/years, ab for starting points, bis for deadlines, gegen for approximate times, zwischen … und … for windows, innerhalb von … for completion time.
+German (with glosses):
+Verwenden (use) Sie (you) am (on) für (for) Tage (days)/Daten (dates), um (at) für (for) exakte (exact) Uhrzeiten (times), im (in) für (for) Monate (months)/Jahre (years), ab (from) für (for) Startpunkte (starting-points), bis (until/by) für (for) Fristen (deadlines), gegen (around/about) für (for) ungefähre (approximate) Zeiten (times), zwischen (between) … und (and) … für (for) Zeitfenster (time-windows), innerhalb (within) von (of) … für (for) Fertigstellungszeit (completion-time).
+English translation (examples):
+On Tuesday at 09:30, we propose a meeting. Between 10:00 and 11:00, I am available. By Friday, please confirm. Within two days, we will send the summary.
+German (glosses):
+Am (on) Dienstag (Tuesday) um (at) 09:30 (9:30) schlagen (propose) wir (we) ein (a) Treffen (meeting) vor (forth).
+Zwischen (between) 10:00 (10:00) und (and) 11:00 (11:00) bin (am) ich (I) verfügbar (available).
+Bis (by) Freitag (Friday) bitte (please) bestätigen (confirm).
+Innerhalb (within) von (of) zwei (two) Tagen (days) werden (will) wir (we) die (the) Zusammenfassung (summary) senden (send).
+English translation (calendar idioms):
+“first thing in the morning,” “short notice,” “time slot,” “tentative hold,” “soft booking.”
+German (glosses):
+gleich (right) am (at-the) Morgen (morning) (first-thing-in-the-morning),
+kurzfristig (at-short-notice),
+Zeitfenster (time-slot),
+vorläufige (tentative) Vormerkung (hold),
+weiche (soft) Buchung (booking).
+
+3) Modalität & Höflichkeit: sollen, könnten, möchten, dürften, würden; Konjunktiv II
+English translation:
+Polite appointment language often uses Konjunktiv II and modals: “Could we meet,” “Would Tuesday suit you,” “Might it be possible,” “I would like to propose.”
+German (glosses):
+Höfliche (polite) Termin-Sprache (appointment-language) verwendet (uses) oft (often) den (the) Konjunktiv (subjunctive) II (II) und (and) Modalverben (modals):
+Könnten (could) wir (we) uns (ourselves) treffen (meet)?
+Würde (would) Dienstag (Tuesday) Ihnen (to-you) passen (suit)?
+Dürfte (might) es (it) möglich (possible) sein (be)?
+Ich (I) möchte (would-like) einen (a) Termin (appointment) vorschlagen (propose).
+English translation (formal patterns):
+“It would be appreciated if you could confirm by noon.” “Might we schedule for next week?” “Should Tuesday not be suitable, would Wednesday work?”
+German (glosses):
+Es (it) würde (would) geschätzt (appreciated), wenn (if) Sie (you) bis (by) Mittag (noon) bestätigen (confirm) könnten (could).
+Dürften (might) wir (we) für (for) nächste (next) Woche (week) terminieren (schedule)?
+Sollte (should) Dienstag (Tuesday) nicht (not) passen (suit), würde (would) Mittwoch (Wednesday) funktionieren (work)?
+English translation (neutral patterns):
+“Let’s aim for Wednesday at 10:00.” “Could you share your availability?”
+German (glosses):
+Lassen (let) Sie (you) uns (us) auf (for) Mittwoch (Wednesday) um (at) 10:00 (10:00) abzielen (aim).
+Könnten (could) Sie (you) Ihre (your) Verfügbarkeit (availability) teilen (share)?
+
+4) Komplexe Strukturen: Temporale, Konditionale, Konzessive, Finalsätze
+English translation:
+Temporal clauses sequence actions; conditional clauses set conditions; concessive clauses allow polite disagreement; final clauses express purpose.
+German (glosses):
+Temporalsätze (temporal-clauses) strukturieren (sequence) Abläufe (processes):
+Bevor (before) wir (we) bestätigen (confirm), prüfen (check) wir (we) die (the) Kalender (calendars).
+Konditionalsätze (conditional-clauses) setzen (set) Bedingungen (conditions):
+Wenn (if) der (the) Termin (appointment) nicht (not) passt (suits), verschieben (reschedule) wir (we).
+Konzessivsätze (concessive-clauses) mildern (soften) Widerspruch (disagreement):
+Obwohl (although) Mittwoch (Wednesday) ungünstig (inconvenient) ist (is), könnten (could) wir (we) eine (a) Lösung (solution) finden (find).
+Finalsätze (final-clauses) drücken (express) Zweck (purpose) aus (out):
+Damit (so-that) alle (everyone) teilnehmen (participate) können (can), schlagen (propose) wir (we) zwei (two) Zeitfenster (time-slots) vor (forth).
+English translation (example sentence combining clause types):
+Before we confirm, we check availability; if Tuesday is not possible, we propose Wednesday; although the window is tight, we extend the meeting by fifteen minutes, so that we can address all questions.
+German (glosses):
+Bevor (before) wir (we) bestätigen (confirm), prüfen (check) wir (we) die (the) Verfügbarkeit (availability);
+wenn (if) Dienstag (Tuesday) nicht (not) möglich (possible) ist (is), schlagen (propose) wir (we) Mittwoch (Wednesday) vor (forth);
+obwohl (although) das (the) Zeitfenster (time-window) knapp (tight) ist (is), verlängern (extend) wir (we) die (the) Besprechung (meeting) um (by) fünfzehn (fifteen) Minuten (minutes), damit (so-that) wir (we) alle (all) Fragen (questions) behandeln (address) können (can).
+
+5) Passiv & Nominalisierung: formelle Termin-Sprache
+English translation:
+Use passive and nominalizations for neutral, formal tone: “The appointment is confirmed,” “The postponement is requested,” “The coordination is carried out.”
+German (glosses):
+Nutzen (use) Sie (you) Passiv (passive) und (and) Nominalisierungen (nominalizations) für (for) neutralen (neutral), formellen (formal) Ton (tone):
+Der (the) Termin (appointment) wird (is) bestätigt (confirmed).
+Die (the) Verschiebung (postponement) wird (is) beantragt (requested).
+Die (the) Koordination (coordination) wird (is) vorgenommen (carried-out).
+English translation (policy examples):
+Invitation dispatch is scheduled; attendance confirmation is required; agenda alignment is recommended.
+German (glosses):
+Der (the) Versand (dispatch) der (of-the) Einladung (invitation) wird (is) terminiert (scheduled);
+Die (the) Teilnahmebestätigung (attendance-confirmation) ist (is) erforderlich (required);
+Die (the) Abstimmung (alignment) der (of-the) Agenda (agenda) wird (is) empfohlen (recommended).
+
+6) Adverbiale Nuancen: rechtzeitig, kurzfristig, zeitnah, verbindlich, vorläufig, nachträglich
+English translation:
+Adverbs add precision and stance: in time, at short notice, promptly, bindingly, tentatively, subsequently.
+German (glosses):
+Adverbien (adverbs) präzisieren (precise) Zeit (time) und (and) Haltung (stance):
+rechtzeitig (in-time), kurzfristig (at-short-notice), zeitnah (promptly), verbindlich (bindingly), vorläufig (tentatively), nachträglich (subsequently).
+English translation (examples):
+Please confirm in time. The change is at short notice. We will respond promptly. The booking is binding. The hold is tentative. We will send the minutes subsequently.
+German (glosses):
+Bitte (please) bestätigen (confirm) rechtzeitig (in-time).
+Die (the) Änderung (change) ist (is) kurzfristig (at-short-notice).
+Wir (we) werden (will) zeitnah (promptly) antworten (respond).
+Die (the) Buchung (booking) ist (is) verbindlich (binding).
+Die (the) Vormerkung (hold) ist (is) vorläufig (tentative).
+Wir (we) senden (send) das (the) Protokoll (minutes) nachträglich (subsequently).
+
+7) Zeitverschiebung und Zeitzonen (inkl. Kalender-Sprache)
+English translation:
+Clarify time zones and shifts: “CET/CEST,” “JST,” “UTC.” Confirm overlaps and daylight saving changes; propose windows with conversion.
+German (glosses):
+Klären (clarify) Sie (you) Zeitzonen (time-zones) und (and) Verschiebungen (shifts): MEZ (CET)/MESZ (CEST), JST (JST), UTC (UTC).
+Bestätigen (confirm) Sie (you) Überschneidungen (overlaps) und (and) Sommerzeit (daylight-saving)-Änderungen (changes); schlagen (propose) Sie (you) Fenster (windows) mit (with) Umrechnung (conversion) vor (forth).
+English translation (example sentence):
+On Tuesday at 10:00 JST (UTC+9), that is 02:00 CET (UTC+1 in winter). Shall we move to 16:00 JST to suit Europe?
+German (glosses):
+Am (on) Dienstag (Tuesday) um (at) 10:00 (10:00) JST (JST) (UTC+9 (UTC+9)), entspricht (equals) das (that) 02:00 (02:00) MEZ (CET) (UTC+1 (UTC+1) im (in-the) Winter (winter)).
+Sollen (shall) wir (we) auf (to) 16:00 (16:00) JST (JST) verschieben (move), damit (so-that) Europa (Europe) passt (fits)?
+
+8) Mini-Dialoge (Telefon, E-Mail, Chat)
+8.1 Telefon: Erstvorschlag
+English translation (sentence-by-sentence):
+A: Could we schedule a meeting for Monday at 09:30?
+B: Monday is difficult; would Tuesday at 10:00 work?
+A: If Tuesday at ten suits you, I will send a calendar invite.
+B: Thank you—please add a tentative hold for one hour.
+German (glosses):
+A: Könnten (could) wir (we) für (for) Montag (Monday) um (at) 09:30 (9:30) terminieren (schedule)?
+B: Montag (Monday) ist (is) schwierig (difficult); würde (would) Dienstag (Tuesday) um (at) 10:00 (10:00) funktionieren (work)?
+A: Wenn (if) Dienstag (Tuesday) um (at) zehn (ten) Ihnen (to-you) passt (suits), werde (will) ich (I) eine (a) Kalendereinladung (calendar-invite) senden (send).
+B: Danke (thank-you)—bitte (please) fügen (add) Sie (you) eine (a) vorläufige (tentative) Vormerkung (hold) für (for) eine (one) Stunde (hour) hinzu (add).
+
+8.2 E-Mail: Formell bestätigen
+English translation:
+Subject: Confirmation: Meeting Tuesday, 10:00 JST
+Dear Ms. Sato, thank you for your proposal. We hereby confirm the appointment on Tuesday at 10:00 JST (online). We will share the agenda in time. Kind regards.
+German (glosses):
+Betreff (subject): Bestätigung (confirmation): Termin (meeting) Dienstag (Tuesday), 10:00 (10:00) JST (JST)
+Sehr (very) geehrte (esteemed) Frau (Ms.) Sato (Sato), vielen (many) Dank (thanks) für (for) Ihren (your) Vorschlag (proposal).
+Hiermit (hereby) bestätigen (confirm) wir (we) den (the) Termin (appointment) am (on-the) Dienstag (Tuesday) um (at) 10:00 (10:00) JST (JST) (online (online)).
+Wir (we) werden (will) die (the) Agenda (agenda) rechtzeitig (in-time) teilen (share).
+Mit (with) freundlichen (friendly) Grüßen (regards).
+
+8.3 Chat: Kurzfristige Verschiebung
+English translation:
+A: Could we move today’s meeting from 16:00 to 16:30?
+B: Although the window is tight, we can extend by fifteen minutes.
+A: Great—after the invite is updated, I will confirm attendance.
+B: Done—please respond promptly.
+German (glosses):
+A: Könnten (could) wir (we) das (the) heutige (today’s) Meeting (meeting) von (from) 16:00 (16:00) auf (to) 16:30 (16:30) verschieben (move)?
+B: Obwohl (although) das (the) Zeitfenster (time-window) knapp (tight) ist (is), können (can) wir (we) um (by) fünfzehn (fifteen) Minuten (minutes) verlängern (extend).
+A: Super (great)—Nachdem (after) die (the) Einladung (invite) aktualisiert (updated) ist (is), werde (will) ich (I) die (the) Teilnahme (attendance) bestätigen (confirm).
+B: Erledigt (done)—bitte (please) antworten (respond) zeitnah (promptly).
+
+9) Übungen (mit Lösungen)
+Übung 1: Präpositionen für Zeitangaben
+Aufgabe: Ergänze am, um, im, ab, bis, gegen, zwischen … und …, innerhalb von … sinnvoll.
+
+Wir treffen uns ___ Dienstag ___ 09:30.
+Die Bestätigung benötigen wir ___ Freitag.
+___ März planen wir einen Workshop.
+___ 10:00 und 11:00 bin ich frei.
+Wir starten ___ sofort und liefern ___ zwei Tagen.
+___ 16:00 ist zu früh; lieber ___ 16:30.
+Die Regel gilt ___ nächster Woche.
+
+Lösungen:
+
+am Dienstag um 09:30
+bis Freitag
+im März
+zwischen 10:00 und 11:00
+ab sofort und liefern innerhalb von zwei Tagen
+um 16:00 ist zu früh; lieber gegen 16:30
+ab nächster Woche
+
+
+Übung 2: Höflichkeit mit Konjunktiv II
+Aufgabe: Formuliere höflich.
+a) „Bestätigen Sie den Termin bis heute 12:00.“
+b) „Senden Sie mir zwei Zeitfenster.“
+c) „Verschieben wir das Meeting auf morgen.“
+Musterlösungen (glossed):
+a) Es (it) wäre (would-be) sehr (very) freundlich (kind), wenn (if) Sie (you) den (the) Termin (appointment) bis (by) heute (today) um (at) 12:00 (12:00) bestätigen (confirm) könnten (could).
+b) Könnten (could) Sie (you) mir (me) zwei (two) Zeitfenster (time-slots) senden (send)?
+c) Würden (would) wir (we) das (the) Meeting (meeting) auf (to) morgen (tomorrow) verschieben (reschedule) können (be-able-to)?
+
+Übung 3: Nebensätze kombinieren
+Aufgabe: Verbinde sinnvoll mit bevor, nachdem, wenn, obwohl, damit.
+Sätze: „Wir prüfen Kalender. Wir bestätigen. Der Slot ist knapp. Wir verlängern um 15 Minuten. Alle sollen teilnehmen.“
+Beispiellösung (glossed):
+Bevor (before) wir (we) Kalender (calendars) prüfen (check), bestätigen (confirm) wir (we) nicht (not). Obwohl (although) der (the) Slot (slot) knapp (tight) ist (is), verlängern (extend) wir (we) um (by) 15 (15) Minuten (minutes), damit (so-that) alle (everyone) teilnehmen (participate) können (can). Nachdem (after) wir (we) bestätigt (confirmed) haben (have), informieren (inform) wir (we). Wenn (if) Konflikte (conflicts) auftreten (arise), verschieben (reschedule) wir (we).
+
+Übung 4: Passiv & Nominalisierung
+Aufgabe: Formuliere formell.
+a) „Wir bestätigen den Termin.“
+b) „Man verschiebt die Sitzung.“
+c) „Wir stimmen die Agenda ab.“
+Lösungen (glossed):
+a) Der (the) Termin (appointment) wird (is) bestätigt (confirmed).
+b) Die (the) Verschiebung (postponement) der (of-the) Sitzung (session) wird (is) vorgenommen (carried-out).
+c) Die (the) Abstimmung (alignment) der (of-the) Agenda (agenda) wird (is) empfohlen (recommended) / durchgeführt (conducted).
+
+Übung 5: Adverbien präzisieren
+Aufgabe: Setze rechtzeitig, kurzfristig, zeitnah, verbindlich, vorläufig, nachträglich ein.
+A) Bitte bestätigen Sie ___ .
+B) Die Änderung ist ___ .
+C) Wir antworten ___ .
+D) Die Buchung ist ___ .
+E) Die Vormerkung bleibt ___ .
+F) Das Protokoll kommt ___ .
+Lösungen:
+A) rechtzeitig
+B) kurzfristig
+C) zeitnah
+D) verbindlich
+E) vorläufig
+F) nachträglich
+
+Übung 6: Zeitzonen & Verschiebung
+Aufgabe: Ergänze: „___ Dienstag ___ 10:00 JST entspricht ___ 02:00 MEZ; schlagen wir ___ 16:00 JST vor.“
+Lösung:
+Am Dienstag um 10:00 JST entspricht (=) 02:00 MEZ; schlagen wir auf 16:00 JST vor.
+
+Übung 7: Höfliche Alternativen (Konjunktiv II)
+Aufgabe: Ersetze direktive Form durch höfliche Frage.
+
+„Senden Sie mir Ihre Verfügbarkeit bis morgen.“
+Lösung (glossed):
+Könnten (could) Sie (you) mir (me) Ihre (your) Verfügbarkeit (availability) bis (by) morgen (tomorrow) senden (send)?
+
+
+Übung 8: Konditional & Konzessiv
+Aufgabe: Ergänze wenn, sofern, es sei denn, obwohl.
+
+___ der Termin nicht passt, schlagen wir Alternativen vor.
+___ alle zustimmen, bestätigen wir sofort.
+Wir halten fest, ___ die Zeit knapp ist.
+Wir verschieben nicht, ___ das Risiko steigt.
+
+Lösungen:
+
+Wenn
+Sofern
+obwohl
+es sei denn
+
+
+Übung 9: E-Mail-Kurztext (formell)
+Aufgabe: Formuliere eine Terminbestätigung (Zeit, Ort/Online, Agenda-Hinweis).
+Beispiellösung (glossed):
+Betreff (subject): Bestätigung (confirmation): Treffen (meeting) am (on) Mittwoch (Wednesday) um (at) 10:00 (10:00) JST (JST)
+Sehr (very) geehrtes (esteemed) Team (team), hiermit (hereby) bestätigen (confirm) wir (we) das (the) Treffen (meeting) am (on) Mittwoch (Wednesday) um (at) 10:00 (10:00) JST (JST) (online (online)). Die (the) Agenda (agenda) wird (will-be) rechtzeitig (in-time) geteilt (shared). Mit (with) freundlichen (friendly) Grüßen (regards).
+
+Übung 10: Gesprächsrollen (Dialog-Bausteine)
+Aufgabe: Kombiniere Vorschlag + Einschränkung + Lösung.
+
+Bausteine: „Könnten wir …?“, „Obwohl …“, „Dann schlage ich … vor.“
+Beispiellösung (glossed):
+
+
+Könnten (could) wir (we) am (on) Dienstag (Tuesday) um (at) 09:30 (9:30) starten (start)? Obwohl (although) das (the) Zeitfenster (time-window) knapp (tight) ist (is), dann (then) schlage (propose) ich (I) eine (a) Verlängerung (extension) um (by) 15 (15) Minuten (minutes) vor (forth).*
+
+
+10) Zusammenfassung & Praxistext
+English translation:
+At C1 level, appointment management relies on precise time prepositions, polite Konjunktiv II structures, flexible clause types to sequence, condition, and soften, plus passive/nominalization for formal tone. Adverbs refine timing and stance; time-zone clarity prevents confusion.
+German (glosses):
+Auf (at) C1-Niveau (C1-level) basiert (rests) Terminmanagement (appointment-management) auf (on) präzisen (precise) Zeitpräpositionen (time-prepositions), höflichen (polite) Strukturen (structures) im (in-the) Konjunktiv (subjunctive) II (II), flexiblen (flexible) Satztypen (clause-types) zur (for) Sequenzierung (sequencing), Bedingung (conditioning), und (and) Milderung (softening), sowie (as-well-as) Passiv (passive)/Nominalisierung (nominalization) für (for) formellen (formal) Ton (tone).
+Adverbien (adverbs) verfeinern (refine) Timing (timing) und (and) Haltung (stance); Zeitzonen-Klarheit (time-zone-clarity) verhindert (prevents) Verwirrung (confusion).
+
+Bonus: Praxistext (vollständige Übersetzung + Glosses)
+English translation (sentence-by-sentence):
+Since last week, we have aligned calendars to arrange a cross-team appointment. On Wednesday at 10:00 JST, we will meet online; the agenda will be shared in time. If the slot is too tight, we will extend the meeting by fifteen minutes. After the confirmation is sent, please respond promptly. By Friday, we will have documented decisions and scheduled the follow-up.
+German (glosses):
+Seit (since) letzter (last) Woche (week) haben (have) wir (we) Kalender (calendars) abgestimmt (aligned), um (in-order-to) einen (a) teamübergreifenden (cross-team) Termin (appointment) zu (to) vereinbaren (arrange).
+Am (on) Mittwoch (Wednesday) um (at) 10:00 (10:00) JST (JST) werden (will) wir (we) online (online) zusammentreffen (meet); die (the) Agenda (agenda) wird (will-be) rechtzeitig (in-time) geteilt (shared).
+Wenn (if) das (the) Zeitfenster (time-window) zu (too) knapp (tight) ist (is), werden (will) wir (we) die (the) Besprechung (meeting) um (by) fünfzehn (fifteen) Minuten (minutes) verlängern (extend).
+Nachdem (after) die (the) Bestätigung (confirmation) gesendet (sent) ist (is), bitte (please) antworten (respond) zeitnah (promptly).
+Bis (by) Freitag (Friday) werden (will) wir (we) Entscheidungen (decisions) dokumentiert (documented) haben (have) und (and) das (the) Folgegespräch (follow-up) terminiert (scheduled) haben (have).
+
+Mini-Check (Selbsttest)
+
+
+Choose the correct polite form:
+___ wir den Termin auf Mittwoch 10:00 verschieben?
+Lösung: Könnten → Könnten wir den Termin auf Mittwoch 10:00 verschieben?
+
+
+Explain the nuance:
+„vorläufig“ vs. „verbindlich“
+Hinweis: vorläufig = tentative/subject to change; verbindlich = binding/fixed.
+
+
+
+Extra: Vorlagen (you can reuse)
+English translation:
+Proposal template:
+German (glosses):
+Hallo (hello) ___, könnten (could) wir (we) am (on) ___ um (at) ___ einen (an) Termin (appointment) vereinbaren (arrange)? Falls (if) ___ nicht (not) passt (fits), würde (would) ___ funktionieren (work)? Vielen (many) Dank (thanks).
+English translation:
+Confirmation template:
+German (glosses):
+Betreff (subject): Bestätigung (confirmation): Termin (appointment) am (on) ___ um (at) ___
+Sehr (very) geehrte (esteemed) ___, hiermit (hereby) bestätigen (confirm) wir (we) den (the) Termin (appointment) am (on) ___ um (at) ___ (online/in-person (online/in-person)). Die (the) Agenda (agenda) wird (will-be) rechtzeitig (in-time) geteilt (shared). Mit (with) freundlichen (friendly) Grüßen (regards).
