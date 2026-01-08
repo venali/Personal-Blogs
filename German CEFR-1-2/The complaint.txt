@@ -1,0 +1,1076 @@
+CEFR C1-level German grammar study material on the topic “Die Beschwerde” (The Complaint)
+Inhaltsverzeichnis
+
+Einführung: Beschwerde im C1-Kontext
+Präpositionen & Kollokationen (über, wegen, bei, an, gegenüber, gegen, innerhalb, innerhalb von)
+Tempus & Aspekt: Ablauf und Wirkung (Präsens, Präteritum, Perfekt, Plusquamperfekt, Futur I/II)
+Modalität & Höflichkeit: müssen, sollen, dürfen, können, möchten, würden, werden (Vermutung)
+Komplexe Satzstrukturen: Kausal-, Final-, Konditional-, Konzessions-, Temporal-, Relativsätze; indirekte Rede
+Passiv & Nominalisierung: formeller Stil im Beschwerdeverfahren
+Adverbiale Präzision & Bewertung (nachweislich, mutmaßlich, nachdrücklich, angemessen, unverzüglich, zugleich)
+Idiomatische Wendungen (Reklamation, Mangel, Nachbesserung, Ersatzlieferung, Rückerstattung, Fristsetzung)
+Mini-Dialoge & kurze Beispieltexte
+Modelle: Beschwerde-E-Mail & formeller Brief (mit Wort-für-Wort-Übersetzung)
+Übungen (mit Lösungen)
+Zusammenfassung & Praxistext
+
+
+1) Einführung: Beschwerde im C1-Kontext
+Sentence-by-sentence translation:
+English: A complaint is a structured, polite, and goal-oriented reaction to a deficiency or breach of expectation.
+German: Eine Beschwerde ist eine strukturierte, höfliche und zielgerichtete Reaktion auf einen Mangel oder eine Erwartungsverletzung.
+Word-by-word:
+
+Eine (a)
+Beschwerde (complaint)
+ist (is)
+eine (a)
+strukturierte (structured)
+höfliche (polite)
+und (and)
+zielgerichtete (goal-oriented)
+Reaktion (reaction)
+auf (to/on)
+einen (a)
+Mangel (deficiency)
+oder (or)
+eine (an)
+Erwartungsverletzung (breach of expectation)
+
+Sentence-by-sentence translation:
+English: At C1 level, complaints must be precise in content, diplomatic in tone, and legally careful in wording.
+German: Auf C1-Niveau müssen Beschwerden inhaltlich präzise, im Ton diplomatisch und in der Formulierung rechtlich sorgfältig sein.
+Word-by-word:
+
+Auf (at/on)
+C1-Niveau (C1 level)
+müssen (must)
+Beschwerden (complaints)
+inhaltlich (in content)
+präzise (precise)
+im (in the)
+Ton (tone)
+diplomatisch (diplomatic)
+und (and)
+in (in)
+der (the)
+Formulierung (wording)
+rechtlich (legally)
+sorgfältig (careful)
+sein (be)
+
+
+2) Präpositionen & Kollokationen (über, wegen, bei, an, gegenüber, gegen, innerhalb, innerhalb von)
+Sentence-by-sentence translation:
+English: We are complaining about the delay in delivery.
+German: Wir beschweren uns über die Lieferverzögerung.
+Word-by-word:
+
+Wir (we)
+beschweren (complain)
+uns (ourselves)
+über (about)
+die (the)
+Lieferverzögerung (delivery delay)
+
+Sentence-by-sentence translation:
+English: Due to serious defects, we demand a replacement delivery.
+German: Wegen schwerwiegender Mängel verlangen wir eine Ersatzlieferung.
+Word-by-word:
+
+Wegen (due to)
+schwerwiegender (serious)
+Mängel (defects)
+verlangen (demand)
+wir (we)
+eine (a)
+Ersatzlieferung (replacement delivery)
+
+Sentence-by-sentence translation:
+English: For questions, please contact customer service at the following address.
+German: Bei Fragen wenden Sie sich bitte an den Kundenservice unter folgender Adresse.
+Word-by-word:
+
+Bei (for/with)
+Fragen (questions)
+wenden (turn)
+Sie (you – formal)
+sich (yourself)
+bitte (please)
+an (to)
+den (the)
+Kundenservice (customer service)
+unter (under/at)
+folgender (following)
+Adresse (address)
+
+Sentence-by-sentence translation:
+English: Compared to the last order, the quality has declined.
+German: Gegenüber der letzten Bestellung hat die Qualität nachgelassen.
+Word-by-word:
+
+Gegenüber (compared to)
+der (the)
+letzten (last)
+Bestellung (order)
+hat (has)
+die (the)
+Qualität (quality)
+nachgelassen (declined)
+
+Sentence-by-sentence translation:
+English: The product protects against moisture and scratches.
+German: Das Produkt schützt gegen Feuchtigkeit und Kratzer.
+Word-by-word:
+
+Das (the)
+Produkt (product)
+schützt (protects)
+gegen (against)
+Feuchtigkeit (moisture)
+und (and)
+Kratzer (scratches)
+
+Typical collocations in complaint contexts:
+
+Beschwerde über Lieferverzug/Fehler/Service (complaint about delay/errors/service)
+Frist zur Nachbesserung/Antwort (deadline for rectification/response)
+Anspruch auf Ersatz/Rückerstattung (entitlement to replacement/refund)
+Hinweis auf Vertragsbedingungen (reference to contract terms)
+gegenüber dem Kunden/Anbieter (vis-à-vis the customer/provider)
+
+
+3) Tempus & Aspekt: Ablauf und Wirkung
+Präsens (present) – aktuelle Lage:
+English: We hereby complain about the incomplete delivery.
+German: Hiermit beschweren wir uns über die unvollständige Lieferung.
+Word-by-word:
+
+Hiermit (hereby)
+beschweren (complain)
+wir (we)
+uns (ourselves)
+über (about)
+die (the)
+unvollständige (incomplete)
+Lieferung (delivery)
+
+Präteritum (narrative past) – schriftlich:
+English: The company ignored our reminder and missed the deadline.
+German: Das Unternehmen ignorierte unsere Mahnung und versäumte die Frist.
+Word-by-word:
+
+Das (the)
+Unternehmen (company)
+ignorierte (ignored)
+unsere (our)
+Mahnung (reminder)
+und (and)
+versäumte (missed)
+die (the)
+Frist (deadline)
+
+Perfekt (spoken/written past):
+English: We have already reported the defect and attached photos.
+German: Wir haben den Mangel bereits gemeldet und Fotos beigefügt.
+Word-by-word:
+
+Wir (we)
+haben (have)
+den (the)
+Mangel (defect)
+bereits (already)
+gemeldet (reported)
+und (and)
+Fotos (photos)
+beigefügt (attached)
+
+Plusquamperfekt (pre-past):
+English: Before we complained, we had tried several times to reach support.
+German: Bevor wir uns beschwerten, hatten wir mehrfach versucht, den Support zu erreichen.
+Word-by-word:
+
+Bevor (before)
+wir (we)
+uns (ourselves)
+beschwerten (complained)
+hatten (had)
+wir (we)
+mehrfach (several times)
+versucht (tried)
+den (the)
+Support (support)
+zu (to)
+erreichen (reach)
+
+Futur I (forecast/intent):
+English: We will send a formal complaint tomorrow.
+German: Wir werden morgen eine formelle Beschwerde senden.
+Word-by-word:
+
+Wir (we)
+werden (will)
+morgen (tomorrow)
+eine (a)
+formelle (formal)
+Beschwerde (complaint)
+senden (send)
+
+Futur II (future perfect – completed by a time):
+English: By Friday, we will have documented all defects.
+German: Bis Freitag werden wir alle Mängel dokumentiert haben.
+Word-by-word:
+
+Bis (by until)
+Freitag (Friday)
+werden (will)
+wir (we)
+alle (all)
+Mängel (defects)
+dokumentiert (documented)
+haben (have)
+
+
+4) Modalität & Höflichkeit: müssen, sollen, dürfen, können, möchten, würden, werden (Vermutung)
+müssen (necessity/obligation):
+English: The supplier must rectify the defect within ten days.
+German: Der Lieferant muss den Mangel innerhalb von zehn Tagen beheben.
+Word-by-word:
+
+Der (the)
+Lieferant (supplier)
+muss (must/has to)
+den (the)
+Mangel (defect)
+innerhalb (within)
+von (of)
+zehn (ten)
+Tagen (days)
+beheben (rectify)
+
+sollen (expectation/recommendation):
+English: The company should offer appropriate compensation.
+German: Das Unternehmen soll eine angemessene Entschädigung anbieten.
+Word-by-word:
+
+Das (the)
+Unternehmen (company)
+soll (should/is supposed to)
+eine (an)
+angemessene (appropriate)
+Entschädigung (compensation)
+anbieten (offer)
+
+dürfen (permission/allowance):
+English: Customers may return the product free of charge.
+German: Kunden dürfen das Produkt kostenlos zurücksenden.
+Word-by-word:
+
+Kunden (customers)
+dürfen (may/are allowed to)
+das (the)
+Produkt (product)
+kostenlos (free of charge)
+zurücksenden (send back/return)
+
+können (ability/possibility):
+English: We can provide evidence and test reports.
+German: Wir können Nachweise und Prüfberichte vorlegen.
+Word-by-word:
+
+Wir (we)
+können (can)
+Nachweise (evidence)
+und (and)
+Prüfberichte (test reports)
+vorlegen (present/provide)
+
+möchten (polite desire):
+English: We would like to receive a prompt response.
+German: Wir möchten eine zeitnahe Rückmeldung erhalten.
+Word-by-word:
+
+Wir (we)
+möchten (would like)
+eine (a)
+zeitnahe (prompt/timely)
+Rückmeldung (response/feedback)
+erhalten (receive)
+
+würden + Konjunktiv II (polite request/conditional):
+English: We would appreciate it if you could replace the defective parts.
+German: Wir würden es begrüßen, wenn Sie die defekten Teile ersetzen könnten.
+Word-by-word:
+
+Wir (we)
+würden (would)
+es (it)
+begrüßen (appreciate)
+wenn (if)
+Sie (you – formal)
+die (the)
+defekten (defective)
+Teile (parts)
+ersetzen (replace)
+könnten (could)
+
+werden (Vermutung/probability):
+English: The provider will probably respond within the set deadline.
+German: Der Anbieter wird vermutlich innerhalb der gesetzten Frist reagieren.
+Word-by-word:
+
+Der (the)
+Anbieter (provider)
+wird (will)
+vermutlich (probably)
+innerhalb (within)
+der (the)
+gesetzten (set)
+Frist (deadline)
+reagieren (respond)
+
+
+5) Komplexe Satzstrukturen: Kausal-, Final-, Konditional-, Konzessions-, Temporal-, Relativsätze; indirekte Rede
+Kausalsatz (weil/da):
+English: Because the goods arrived damaged, we are filing a complaint.
+German: Weil die Ware beschädigt angekommen ist, erheben wir eine Beschwerde.
+Word-by-word:
+
+Weil (because)
+die (the)
+Ware (goods)
+beschädigt (damaged)
+angekommen (arrived)
+ist (is)
+erheben (raise/file)
+wir (we)
+eine (a)
+Beschwerde (complaint)
+
+Finalsatz (damit/um … zu):
+English: In order to avoid misunderstandings, we summarize all points.
+German: Damit keine Missverständnisse entstehen, fassen wir alle Punkte zusammen.
+Word-by-word:
+
+Damit (so that/in order that)
+keine (no)
+Missverständnisse (misunderstandings)
+entstehen (arise)
+fassen (summarize)
+wir (we)
+alle (all)
+Punkte (points)
+zusammen (together)
+
+Konditionalsatz (wenn/falls):
+English: If we do not receive an answer, we will set a new deadline.
+German: Wenn wir keine Antwort erhalten, setzen wir eine neue Frist.
+Word-by-word:
+
+Wenn (if/when)
+wir (we)
+keine (no)
+Antwort (answer)
+erhalten (receive)
+setzen (set)
+wir (we)
+eine (a)
+neue (new)
+Frist (deadline)
+
+Konzessionssatz (obwohl/obgleich):
+English: Although we value your brand, we cannot accept this quality.
+German: Obwohl wir Ihre Marke schätzen, können wir diese Qualität nicht akzeptieren.
+Word-by-word:
+
+Obwohl (although)
+wir (we)
+Ihre (your)
+Marke (brand)
+schätzen (value)
+können (can)
+wir (we)
+diese (this)
+Qualität (quality)
+nicht (not)
+akzeptieren (accept)
+
+Temporalsatz (nachdem/bevor/während):
+English: After we had documented all defects, we sent the complaint.
+German: Nachdem wir alle Mängel dokumentiert hatten, haben wir die Beschwerde gesendet.
+Word-by-word:
+
+Nachdem (after)
+wir (we)
+alle (all)
+Mängel (defects)
+dokumentiert (documented)
+hatten (had)
+haben (have)
+wir (we)
+die (the)
+Beschwerde (complaint)
+gesendet (sent)
+
+Relativsatz (der/die/das):
+English: The order, which was placed on Monday, arrived incomplete.
+German: Die Bestellung, die am Montag aufgegeben wurde, kam unvollständig an.
+Word-by-word:
+
+Die (the)
+Bestellung (order)
+die (which)
+am (on the)
+Montag (Monday)
+aufgegeben (placed)
+wurde (was)
+kam (came)
+unvollständig (incomplete)
+an (in/at)
+
+Indirekte Rede (Konjunktiv I/II):
+English: The supplier claims that the goods were properly packed.
+German: Der Lieferant behauptet, die Ware sei ordnungsgemäß verpackt worden.
+Word-by-word:
+
+Der (the)
+Lieferant (supplier)
+behauptet (claims)
+die (the)
+Ware (goods)
+sei (be – Konjunktiv I of sein)
+ordnungsgemäß (properly)
+verpackt (packed)
+worden (been)
+
+
+6) Passiv & Nominalisierung: formeller Stil im Beschwerdeverfahren
+Prozesspassiv (werden + Partizip II):
+English: The complaint is processed within five working days.
+German: Die Beschwerde wird innerhalb von fünf Werktagen bearbeitet.
+Word-by-word:
+
+Die (the)
+Beschwerde (complaint)
+wird (is/gets)
+innerhalb (within)
+von (of)
+fünf (five)
+Werktagen (working days)
+bearbeitet (processed)
+
+Zustandspassiv (sein + Partizip II):
+English: The case is documented and is ready for review.
+German: Der Fall ist dokumentiert und ist zur Prüfung bereit.
+Word-by-word:
+
+Der (the)
+Fall (case)
+ist (is)
+dokumentiert (documented)
+und (and)
+ist (is)
+zur (for/to)
+Prüfung (review)
+bereit (ready)
+
+Nominalstil – schriftliche Knappheit:
+English: The failure to meet the deadline led to the extension of the complaint procedure.
+German: Die Fristversäumnis führte zur Verlängerung des Beschwerdeverfahrens.
+Word-by-word:
+
+Die (the)
+Fristversäumnis (failure to meet the deadline)
+führte (led)
+zur (to the)
+Verlängerung (extension)
+des (of the)
+Beschwerdeverfahrens (complaint procedure)
+
+
+7) Adverbiale Präzision & Bewertung
+Sentence-by-sentence translation:
+English: The defects are demonstrably present and have been documented in detail.
+German: Die Mängel sind nachweislich vorhanden und wurden detailliert dokumentiert.
+Word-by-word:
+
+Die (the)
+Mängel (defects)
+sind (are)
+nachweislich (demonstrably)
+vorhanden (present)
+und (and)
+wurden (were)
+detailliert (in detail)
+dokumentiert (documented)
+
+Sentence-by-sentence translation:
+English: The reaction appears appropriate and proportionate to the situation.
+German: Die Reaktion wirkt angemessen und der Situation gegenüber verhältnismäßig.
+Word-by-word:
+
+Die (the)
+Reaktion (reaction)
+wirkt (appears/seems)
+angemessen (appropriate)
+und (and)
+der (to the)
+Situation (situation)
+gegenüber (towards/with respect to)
+verhältnismäßig (proportionate)
+
+Sentence-by-sentence translation:
+English: We request an immediate response and simultaneous initiation of rectification.
+German: Wir fordern eine unverzügliche Rückmeldung und zugleich die Einleitung der Nachbesserung.
+Word-by-word:
+
+Wir (we)
+fordern (demand/request)
+eine (an)
+unverzügliche (immediate)
+Rückmeldung (response)
+und (and)
+zugleich (at the same time)
+die (the)
+Einleitung (initiation)
+der (of the)
+Nachbesserung (rectification)
+
+
+8) Idiomatische Wendungen (Reklamation, Mangel, Nachbesserung, Ersatzlieferung, Rückerstattung, Fristsetzung)
+Sentence-by-sentence translation:
+English: We file a formal reclamation due to a material defect.
+German: Wir reichen aufgrund eines Sachmangels eine formelle Reklamation ein.
+Word-by-word:
+
+Wir (we)
+reichen (submit/file)
+aufgrund (due to/on the basis of)
+eines (a/an)
+Sachmangels (material defect)
+eine (a)
+formelle (formal)
+Reklamation (reclamation/complaint)
+ein (in)
+
+Sentence-by-sentence translation:
+English: We set a deadline for rectification or replacement delivery.
+German: Wir setzen eine Frist zur Nachbesserung oder Ersatzlieferung.
+Word-by-word:
+
+Wir (we)
+setzen (set)
+eine (a)
+Frist (deadline)
+zur (for/to)
+Nachbesserung (rectification)
+oder (or)
+Ersatzlieferung (replacement delivery)
+
+Sentence-by-sentence translation:
+English: Alternatively, we request a refund of the purchase price.
+German: Alternativ beantragen wir eine Rückerstattung des Kaufpreises.
+Word-by-word:
+
+Alternativ (alternatively)
+beantragen (apply/request)
+wir (we)
+eine (a)
+Rückerstattung (refund)
+des (of the)
+Kaufpreises (purchase price)
+
+
+9) Mini-Dialoge & kurze Beispieltexte
+Dialog 1 – Erstkontakt:
+English:
+A: Good afternoon, I would like to complain about my last order.
+B: Of course. What exactly is the issue?
+German:
+A: Guten Tag, ich möchte mich über meine letzte Bestellung beschweren.
+B: Natürlich. Was genau ist das Problem?
+Word-by-word (A line):
+
+Guten (good)
+Tag (day/afternoon)
+ich (I)
+möchte (would like)
+mich (myself)
+über (about)
+meine (my)
+letzte (last)
+Bestellung (order)
+beschweren (complain)
+
+
+Dialog 2 – Sachverhalt klären:
+English:
+A: The device arrived with scratches and does not turn on.
+B: We apologize for the inconvenience and will initiate rectification immediately.
+German:
+A: Das Gerät ist mit Kratzern angekommen und lässt sich nicht einschalten.
+B: Wir entschuldigen uns für die Unannehmlichkeiten und leiten unverzüglich die Nachbesserung ein.
+Word-by-word (B line):
+
+Wir (we)
+entschuldigen (apologize)
+uns (ourselves)
+für (for)
+die (the)
+Unannehmlichkeiten (inconveniences)
+und (and)
+leiten (initiate)
+unverzüglich (immediately)
+die (the)
+Nachbesserung (rectification)
+ein (in)
+
+
+Kurztext – Zusammenfassung eines Falls:
+English:
+The complaint concerns an incomplete delivery and a damaged item.
+The customer requests either replacement delivery or refund within fourteen days.
+German:
+Die Beschwerde betrifft eine unvollständige Lieferung und einen beschädigten Artikel.
+Der Kunde verlangt entweder eine Ersatzlieferung oder eine Rückerstattung innerhalb von vierzehn Tagen.
+Word-by-word (first sentence):
+
+Die (the)
+Beschwerde (complaint)
+betrifft (concerns)
+eine (an)
+unvollständige (incomplete)
+Lieferung (delivery)
+und (and)
+einen (a)
+beschädigten (damaged)
+Artikel (item)
+
+
+10) Modelle: Beschwerde-E-Mail & formeller Brief (mit Wort-für-Wort-Übersetzung)
+A) Beschwerde-E-Mail (kurz, sachlich)
+Sentence-by-sentence translation:
+English:
+Subject: Complaint about order #4921 – damaged item and missing parts
+Dear Sir or Madam,
+We are writing to complain about our order from 3 March.
+The package arrived damaged; furthermore, two accessories were missing.
+We request immediate rectification and a written confirmation within seven days.
+Please inform us about the next steps and the expected processing time.
+Kind regards
+German:
+Betreff: Beschwerde zu Bestellung Nr. 4921 – beschädigter Artikel und fehlende Teile
+Sehr geehrte Damen und Herren,
+wir schreiben Ihnen, um eine Beschwerde zu unserer Bestellung vom 3. März einzureichen.
+Das Paket ist beschädigt angekommen; zudem fehlten zwei Zubehörteile.
+Wir verlangen eine unverzügliche Nachbesserung und eine schriftliche Bestätigung innerhalb von sieben Tagen.
+Bitte informieren Sie uns über die nächsten Schritte und die voraussichtliche Bearbeitungszeit.
+Mit freundlichen Grüßen
+Word-by-word (key lines):
+
+
+Betreff (subject)
+
+
+Beschwerde (complaint)
+
+
+zu (to/concerning)
+
+
+Bestellung (order)
+
+
+Nr. (No.)
+
+
+beschädigter (damaged)
+
+
+Artikel (item)
+
+
+und (and)
+
+
+fehlende (missing)
+
+
+Teile (parts)
+
+
+Wir (we)
+
+
+schreiben (write)
+
+
+Ihnen (to you – formal)
+
+
+um (to/in order to)
+
+
+eine (a)
+
+
+Beschwerde (complaint)
+
+
+einzureichen (to submit)
+
+
+Wir (we)
+
+
+verlangen (demand/request)
+
+
+eine (an)
+
+
+unverzügliche (immediate)
+
+
+Nachbesserung (rectification)
+
+
+und (and)
+
+
+eine (a)
+
+
+schriftliche (written)
+
+
+Bestätigung (confirmation)
+
+
+
+B) Formeller Beschwerdebrief (mit Fristsetzung)
+Sentence-by-sentence translation:
+English:
+Dear Customer Service,
+On 10 April, we received the delivery of order 7810.
+Unfortunately, the goods arrived partly damaged and incomplete.
+Despite prior notice, the agreed delivery date was not met.
+We hereby set a deadline until 24 April for rectification (replacement delivery or repair).
+If we do not receive an adequate response by this date, we will consider further steps, including cancellation and refund.
+We appreciate your timely feedback and thank you in advance for your cooperation.
+German:
+Sehr geehrter Kundenservice,
+am 10. April erhielten wir die Lieferung zur Bestellung 7810.
+Leider ist die Ware teilweise beschädigt und unvollständig angekommen.
+Trotz vorheriger Ankündigung wurde der vereinbarte Liefertermin nicht eingehalten.
+Hiermit setzen wir eine Frist bis zum 24. April zur Nachbesserung (Ersatzlieferung oder Reparatur).
+Sollten wir bis zu diesem Datum keine angemessene Rückmeldung erhalten, ziehen wir weitere Schritte in Erwägung, einschließlich Widerruf und Rückerstattung.
+Wir schätzen Ihre zeitnahe Rückmeldung und danken Ihnen im Voraus für die Zusammenarbeit.
+Word-by-word (selected lines):
+
+
+Trotz (despite)
+
+
+vorheriger (prior)
+
+
+Ankündigung (notice)
+
+
+wurde (was)
+
+
+der (the)
+
+
+vereinbarte (agreed)
+
+
+Liefertermin (delivery date)
+
+
+nicht (not)
+
+
+eingehalten (kept/met)
+
+
+Hiermit (hereby)
+
+
+setzen (set)
+
+
+wir (we)
+
+
+eine (a)
+
+
+Frist (deadline)
+
+
+bis (until)
+
+
+zum (to the)
+
+
+
+April (April 24)
+
+
+
+zur (for)
+
+
+Nachbesserung (rectification)
+
+
+Sollten (should – conditional)
+
+
+wir (we)
+
+
+keine (no)
+
+
+angemessene (adequate)
+
+
+Rückmeldung (response)
+
+
+erhalten (receive)
+
+
+ziehen (consider)
+
+
+wir (we)
+
+
+weitere (further)
+
+
+Schritte (steps)
+
+
+in (into)
+
+
+Erwägung (consideration)
+
+
+
+11) Übungen (mit Lösungen)
+Übung 1: Präpositionen & Kollokationen (Lücken füllen)
+Setzen Sie über, wegen, bei, an, gegenüber, gegen, innerhalb von ein.
+
+Wir beschweren uns ___ der wiederholten Verzögerungen.
+___ Reklamationen wenden Sie sich bitte an die Fachabteilung.
+___ zwei Wochen erwarten wir eine schriftliche Antwort.
+Der Anbieter ist ___ der Fristsetzung im Verzug.
+Die Verpackung schützt ___ Stöße und Feuchtigkeit.
+___ Qualitätsmängeln verlangen wir eine Ersatzlieferung.
+
+Lösungen:
+
+wegen
+Bei
+innerhalb von
+gegenüber
+gegen
+Bei
+
+
+Übung 2: Tempuswahl
+Wählen Sie Präsens, Perfekt, Plusquamperfekt, Futur I, Futur II.
+
+Bis Freitag ___ wir alle Beweise ___ (sammeln).
+Vor der Beschwerde ___ der Kunde dreimal den Support ___ (kontaktieren).
+Seit gestern ___ die Firma schriftlich ___ (antworten).
+Morgen ___ wir eine Frist von zehn Tagen ___ (setzen).
+Nächsten Monat ___ das Verfahren ___ (abschließen) sein.
+
+Lösungen (vollständige Sätze):
+
+Bis Freitag werden wir alle Beweise gesammelt haben. (Futur II)
+Vor der Beschwerde hatte der Kunde dreimal den Support kontaktiert. (Plusquamperfekt)
+Seit gestern hat die Firma schriftlich geantwortet. (Perfekt)
+Morgen werden wir eine Frist von zehn Tagen setzen. (Futur I)
+Nächsten Monat wird das Verfahren abgeschlossen sein. (Futur I – Zustandspassiv möglich; alternativ Futur II: wird abgeschlossen sein gilt als Futur I mit Zustandspassiv-Funktion)
+
+
+Übung 3: Modalität & Höflichkeit
+Formulieren Sie um mit dem angegebenen Modalverb/Struktur.
+a) Forderung: Die Firma liefert Ersatz. → müssen
+b) Empfehlung: Der Anbieter reagiert schnell. → sollen
+c) Möglichkeit: Wir senden Fotos. → können
+d) Höfliche Bitte: Sie bestätigen den Eingang. → würden + können
+e) Vermutung: Die Antwort kommt morgen. → werden (vermutlich)
+Lösungen:
+a) Die Firma muss Ersatz liefern.
+b) Der Anbieter soll schnell reagieren.
+c) Wir können Fotos senden.
+d) Wir würden es begrüßen, wenn Sie den Eingang bestätigen könnten.
+e) Die Antwort wird vermutlich morgen kommen.
+
+Übung 4: Komplexe Satzstrukturen
+Verbinden Sie mit der passenden Konjunktion (weil, damit, wenn, obwohl, nachdem).
+
+Die Ware war beschädigt. Wir reichten eine Beschwerde ein.
+Wir setzen eine Frist. Der Anbieter reagiert rechtzeitig.
+Die Qualität ist gut. Wir wollen dennoch Fotos schicken.
+Wir dokumentierten die Mängel. Dann kontaktierten wir den Support.
+Sie antworten nicht. Wir setzen eine neue Frist.
+
+Lösungen:
+
+Weil die Ware beschädigt war, reichten wir eine Beschwerde ein.
+Damit der Anbieter rechtzeitig reagiert, setzen wir eine Frist.
+Obwohl die Qualität gut ist, wollen wir dennoch Fotos schicken.
+Nachdem wir die Mängel dokumentiert hatten, kontaktierten wir den Support.
+Wenn Sie nicht antworten, setzen wir eine neue Frist.
+
+
+Übung 5: Passiv & Nominalisierung
+Formen Sie um.
+a) Aktiv → Passiv: Der Kundendienst bearbeitet die Reklamation innerhalb von drei Tagen.
+b) Verb → Nominalisierung: Die Firma ersetzt den Artikel.
+Lösungen:
+a) Die Reklamation wird innerhalb von drei Tagen bearbeitet.
+b) Die Ersatzlieferung des Artikels. (oder: Die Ersetzung des Artikels.)
+
+Übung 6: Adverbiale Präzision
+Ergänzen Sie passende Adverbien: nachweislich, mutmaßlich, nachdrücklich, angemessen, unverzüglich, zugleich.
+
+Wir fordern eine ___ Reaktion und eine ___ eingeleitete Nachbesserung.
+Die Mängel sind ___ vorhanden und wurden ___ dokumentiert.
+Der Anbieter reagiert ___; die Lösung wirkt ___.
+
+Musterlösungen:
+
+nachdrückliche Reaktion und eine unverzüglich eingeleitete Nachbesserung.
+nachweislich vorhanden und wurden zugleich dokumentiert.
+unverzüglich; die Lösung wirkt angemessen.
+(Alternativ: mutmaßlich für Vermutungen.)
+
+
+Übung 7: Idiomatische Wendungen
+Ersetzen Sie die markierten Passagen.
+a) Wir bitten um Geld zurück. → Rückerstattung
+b) Wir möchten eine neue Lieferung. → Ersatzlieferung
+c) Wir setzen eine Zeitgrenze. → Fristsetzung
+Lösungen:
+a) Wir bitten um eine Rückerstattung.
+b) Wir möchten eine Ersatzlieferung.
+c) Wir nehmen eine Fristsetzung vor.
+
+12) Zusammenfassung & Praxistext
+Zusammenfassung (kurz):
+Auf C1-Niveau formulieren Sie Beschwerden präzise, höflich und rechtsbewusst. Nutzen Sie Präpositionen & Kollokationen (über/wegen/bei/gegenüber), wählen Sie passende Tempora (Präsens für Gegenwart, Perfekt/Präteritum für Vergangenheit, Futur I/II für Absicht/Abschluss), setzen Sie Modalität (müssen/sollen/können/würden) für Nuancen, bilden komplexe Satzgefüge (weil/damit/wenn/obwohl/nachdem/Relativsätze), und verwenden Sie Passiv & Nominalisierung für einen formellen Stil. Präzise Adverbien und idiomatische Wendungen stärken die Überzeugungskraft Ihrer Beschwerde.
+
+Praxistext (mit Übersetzung & Wort-für-Wort)
+Sentence-by-sentence translation:
+English: We hereby submit a complaint about the incomplete and partly damaged delivery.
+German: Hiermit reichen wir eine Beschwerde über die unvollständige und teilweise beschädigte Lieferung ein.
+Word-by-word:
+
+Hiermit (hereby)
+reichen (submit/file)
+wir (we)
+eine (a)
+Beschwerde (complaint)
+über (about)
+die (the)
+unvollständige (incomplete)
+und (and)
+teilweise (partly)
+beschädigte (damaged)
+Lieferung (delivery)
+ein (in)
+
+Sentence-by-sentence translation:
+English: Because the goods arrived defective, we request rectification within ten days.
+German: Da die Ware defekt angekommen ist, verlangen wir eine Nachbesserung innerhalb von zehn Tagen.
+Word-by-word:
+
+Da (since/because)
+die (the)
+Ware (goods)
+defekt (defective)
+angekommen (arrived)
+ist (is)
+verlangen (demand/request)
+wir (we)
+eine (a)
+Nachbesserung (rectification)
+innerhalb (within)
+von (of)
+zehn (ten)
+Tagen (days)
+
+Sentence-by-sentence translation:
+English: Alternatively, we request a replacement delivery or, if that is not possible, a refund of the purchase price.
+German: Alternativ beantragen wir eine Ersatzlieferung oder, sofern dies nicht möglich ist, eine Rückerstattung des Kaufpreises.
+Word-by-word:
+
+Alternativ (alternatively)
+beantragen (request/apply for)
+wir (we)
+eine (a)
+Ersatzlieferung (replacement delivery)
+oder (or)
+sofern (provided that/if)
+dies (this)
+nicht (not)
+möglich (possible)
+ist (is)
+eine (a)
+Rückerstattung (refund)
+des (of the)
+Kaufpreises (purchase price)
+
+Sentence-by-sentence translation:
+English: Please confirm receipt and inform us about the next steps without delay.
+German: Bitte bestätigen Sie den Eingang und informieren Sie uns ohne Verzögerung über die nächsten Schritte.
+Word-by-word:
+
+Bitte (please)
+bestätigen (confirm)
+Sie (you – formal)
+den (the)
+Eingang (receipt)
+und (and)
+informieren (inform)
+Sie (you – formal)
+uns (us)
+ohne (without)
+Verzögerung (delay)
+über (about)
+die (the)
+nächsten (next)
+Schritte (steps)
+
+Sentence-by-sentence translation:
+English: We would appreciate a timely written response and a clear schedule for processing.
+German: Wir würden eine zeitnahe schriftliche Rückmeldung und einen klaren Zeitplan für die Bearbeitung begrüßen.
+Word-by-word:
+
+Wir (we)
+würden (would)
+eine (a)
+zeitnahe (timely)
+schriftliche (written)
+Rückmeldung (feedback/response)
+und (and)
+einen (a)
+klaren (clear)
+Zeitplan (schedule)
+für (for)
+die (the)
+Bearbeitung (processing)
+begrüßen (appreciate)
