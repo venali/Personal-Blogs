@@ -1,0 +1,329 @@
+CEFR C1-level German grammar study pack on „Medien“ (Media)
+Inhaltsverzeichnis
+
+Einführung: Medienkompetenz im C1-Kontext
+Präpositionen & Kollokationen (in, auf, über, aus, anhand, mit, gegen, gegenüber)
+Tempus & Aspekt in Medienberichten (Präsens, Präteritum, Perfekt, Plusquamperfekt, Futur I/II)
+Modalität & Nuancen (müssen, sollen, dürfen, können, möchten, werden – Vermutung)
+Komplexe Satzstrukturen (Kausal-, Final-, Konditional-, Konzessiv-, Temporalsätze; indirekte Rede)
+Passiv & Nominalisierung für formellen Berichtsstil
+Adverbiale Präzision (angeblich, offenbar, nachweislich, vermeintlich, mutmaßlich, zugleich)
+Idiomatische Medien-Wendungen (Quelle prüfen, Einordnung, Schlagzeile, Agenda-Setting)
+Mini-Dialoge & Beispieltexte (Interview, Redaktionsmeeting, Leserkommentar)
+Übungen (mit Lösungen)
+Zusammenfassung & Praxistext
+
+
+1) Einführung: Medienkompetenz im C1-Kontext
+English translation (sentence-by-sentence):
+Media literacy requires the ability to analyze sources, identify bias, and communicate results precisely. At C1 level, we use formal structures and nuanced language to discuss credibility and evidence.
+German (with glosses):
+Medienkompetenz (media-literacy) erfordert (requires) die (the) Fähigkeit (ability), Quellen (sources) zu (to) analysieren (analyze), Verzerrungen (biases) zu (to) erkennen (identify), und (and) Ergebnisse (results) präzise (precisely) zu (to) kommunizieren (communicate).
+Auf (at) C1-Niveau (C1-level) nutzen (use) wir (we) formelle (formal) Strukturen (structures) und (and) nuancierte (nuanced) Sprache (language), um (to) Glaubwürdigkeit (credibility) und (and) Evidenz (evidence) zu (to) diskutieren (discuss).
+
+2) Präpositionen & Kollokationen
+English translation:
+Use in for media contexts (“in the article”), auf for platforms (“on the website”), über for topics (“about media ethics”), aus for origins/excerpts, anhand for analytical basis, mit for tools, gegen for opposition, gegenüber for comparison/stance.
+German (glosses):
+Verwenden (use) Sie (you) in (in) für (for) Medienkontexte (media-contexts), auf (on) für (for) Plattformen (platforms), über (about) für (for) Themen (topics), aus (from) für (for) Herkunft (origin)/Auszüge (excerpts), anhand (based-on) für (for) Analysegrundlagen (analytical-basis), mit (with) für (for) Werkzeuge (tools), gegen (against) für (for) Widerspruch (opposition), gegenüber (towards/opposite) für (for) Vergleich (comparison)/Haltung (stance).
+English translation (examples):
+We read the analysis in the journal. The data is available on the website. The commentary is about media ethics. The quotes are from the interview. We evaluate credibility based on criteria.
+German (glosses):
+Wir (we) lesen (read) die (the) Analyse (analysis) in (in) der (the) Zeitschrift (journal).
+Die (the) Daten (data) sind (are) auf (on) der (the) Website (website) verfügbar (available).
+Der (the) Kommentar (commentary) handelt (concerns) über (about) Medienethik (media-ethics).
+Die (the) Zitate (quotes) stammen (originate) aus (from) dem (the) Interview (interview).
+Wir (we) bewerten (evaluate) Glaubwürdigkeit (credibility) anhand (based-on) von (of) Kriterien (criteria).
+English translation (collocations):
+“media coverage,” “editorial policy,” “source verification,” “fact-checking,” “public broadcaster.”
+German (glosses):
+Medienberichterstattung (media-coverage), Redaktionsrichtlinie (editorial-policy), Quellenprüfung (source-verification), Faktencheck (fact-checking), öffentlich-rechtlicher (public) Rundfunk (broadcaster).
+
+3) Tempus & Aspekt in Medienberichten
+English translation:
+Use present for current coverage, perfect for spoken updates, simple past for written reports, past perfect for earlier events, Futur I for plans or assumptions, Futur II for completion by a deadline.
+German (glosses):
+Nutzen (use) Sie (you) das (the) Präsens (present) für (for) aktuelle (current) Berichterstattung (coverage), das (the) Perfekt (perfect) für (for) mündliche (spoken) Updates (updates), das (the) Präteritum (simple-past) für (for) schriftliche (written) Meldungen (reports), das (the) Plusquamperfekt (past-perfect) für (for) frühere (earlier) Ereignisse (events), Futur (future) I (I) für (for) Pläne (plans)/Annahmen (assumptions), Futur (future) II (II) für (for) Abgeschlossenheit (completion) bis (by) zur (to-the) Frist (deadline).
+English translation (examples):
+Today, the broadcaster reports new details. Yesterday, the magazine published an investigation. In the article, the team documented the timeline. Before the interview aired, the editors had verified the quotes. Tomorrow, we will publish the dossier. By Friday, the series will have been completed.
+German (glosses):
+Heute (today) berichtet (reports) der (the) Sender (broadcaster) neue (new) Details (details).
+Gestern (yesterday) hat (has) das (the) Magazin (magazine) eine (an) Recherche (investigation) veröffentlicht (published).
+Im (in-the) Artikel (article) dokumentierte (documented) das (the) Team (team) die (the) Zeitleiste (timeline).
+Bevor (before) das (the) Interview (interview) ausgestrahlt (aired) wurde (was), hatten (had) die (the) Redakteure (editors) die (the) Zitate (quotes) verifiziert (verified).
+Morgen (tomorrow) werden (will) wir (we) das (the) Dossier (dossier) publizieren (publish).
+Bis (by) Freitag (Friday) wird (will) die (the) Serie (series) abgeschlossen (completed) sein (be). (Alternative Futur II: wird abgeschlossen worden sein.)
+
+4) Modalität & Nuancen
+English translation:
+Modals calibrate obligation, recommendation, permission, ability, wish, and assumption in media contexts.
+German (glosses):
+Modalverben (modal-verbs) kalibrieren (calibrate) Pflicht (obligation), Empfehlung (recommendation), Erlaubnis (permission), Fähigkeit (ability), Wunsch (wish), und (and) Annahme (assumption) in (in) Medienkontexten (media-contexts):
+müssen (must) (z. B. JournalistInnen (journalists) müssen Quellen prüfen),
+sollen (should) (z. B. Kommentare sollen ausgewogen sein),
+dürfen (may) (z. B. Nutzende (users) dürfen Inhalte teilen),
+können (can) (z. B. Redaktionen können Fehler korrigieren),
+möchten (would-like) (z. B. Wir möchten Transparenz stärken),
+werden (will/probably) (z. B. Der Bericht wird vermutlich erscheinen).
+English translation (example sentences):
+We must verify sources. Editors should provide context. Users may comment respectfully. Investigators can access archives. I would like to request the dataset. The headline will probably change.
+German (glosses):
+Wir (we) müssen (must) Quellen (sources) verifizieren (verify).
+Redakteure (editors) sollten (should) Kontext (context) liefern (provide).
+Nutzende (users) dürfen (may) respektvoll (respectfully) kommentieren (comment).
+Investigatoren (investigators) können (can) Archive (archives) einsehen (access).
+Ich (I) möchte (would-like) den (the) Datensatz (dataset) anfordern (request).
+Die (the) Schlagzeile (headline) wird (will/probably) sich (itself) ändern (change).
+
+5) Komplexe Satzstrukturen (inkl. indirekte Rede)
+English translation:
+Causal explains reasons; final expresses purpose; conditional sets conditions; concessive admits obstacles; temporal orders events; indirect speech is essential in reporting.
+German (glosses):
+Kausal (causal):
+Weil (because) die (the) Quelle (source) zweifelhaft (dubious) ist (is), müssen (must) wir (we) zusätzliche (additional) Belege (evidence) suchen (seek).
+Final (final):
+Damit (so-that) Leser (readers) informiert (informed) sind (are), stellen (provide) wir (we) Kontext (context) bereit (ready).
+Konditional (conditional):
+Wenn (if) die (the) Daten (data) vollständig (complete) sind (are), werden (will) wir (we) die (the) Analyse (analysis) veröffentlichen (publish).
+Konzessiv (concessive):
+Obwohl (although) der (the) Zeitdruck (time-pressure) hoch (high) ist (is), bleibt (remains) die (the) Qualität (quality) maßgeblich (crucial).
+Temporal (temporal):
+Nachdem (after) die (the) Redaktion (editorial-team) überprüft (checked) hat (has), erscheint (appears) der (the) Beitrag (piece).
+Indirekte Rede (indirect speech):
+English translation:
+The spokesperson said that the investigation would be published tomorrow.
+German (glosses):
+Die (the) Sprecherin (spokesperson-fem.) sagte (said), dass (that) die (the) Untersuchung (investigation) morgen (tomorrow) veröffentlicht (published) würde (would).
+
+6) Passiv & Nominalisierung (formeller Berichtsstil)
+English translation:
+Passive and nominalizations create neutrality and focus on actions rather than agents: “The article was revised,” “The correction is published,” “Verification is required.”
+German (glosses):
+Der (the) Artikel (article) wurde (was) überarbeitet (revised).
+Die (the) Korrektur (correction) wird (is) veröffentlicht (published).
+Die (the) Verifizierung (verification) ist (is) erforderlich (required).
+Die (the) Einordnung (contextualization) wird (is) vorgenommen (carried-out).
+Die (the) Prüfung (audit) der (of-the) Quelle (source) wird (is) durchgeführt (conducted).
+
+7) Adverbiale Präzision
+English translation:
+Use adverbs to express stance and evidence: angeblich (allegedly), offenbar (apparently), nachweislich (demonstrably), vermeintlich (supposedly), mutmaßlich (presumably), zugleich (at-the-same-time).
+German (glosses with examples):
+Die (the) Behauptung (claim) ist (is) angeblich (allegedly) korrekt (correct).
+Die (the) Quelle (source) ist (is) offenbar (apparently) zuverlässig (reliable).
+Die (the) Daten (data) sind (are) nachweislich (demonstrably) konsistent (consistent).
+Die (the) Meldung (report) ist (is) vermeintlich (supposedly) aktuell (current).
+Die (the) Ursache (cause) ist (is) mutmaßlich (presumably) extern (external).
+Die (the) Studie (study) ist (is) zugleich (simultaneously) tief (deep) und (and) zugänglich (accessible).
+
+8) Idiomatische Medien-Wendungen
+
+eine Quelle anzapfen (to tap a source)
+die Schlagzeile setzen (to set the headline)
+die Einordnung liefern (to deliver the contextualization)
+Agenda-Setting betreiben (to influence agenda-setting)
+Reichweite erzielen (to achieve reach)
+die Kommentarspalte moderieren (to moderate the comment section)
+
+Example sentence (with glosses):
+Wir (we) liefern (deliver) die (the) Einordnung (contextualization), damit (so-that) die (the) Berichterstattung (coverage) verständlich (understandable) ist (is), und (and) moderieren (moderate) die (the) Kommentarspalte (comment-section) respektvoll (respectfully).
+
+9) Mini-Dialoge & Beispieltexte
+9.1 Interview (Journalist – Sprecherin)
+English translation (sentence-by-sentence):
+J: Could you explain the editorial policy regarding anonymous sources?
+S: Although anonymity is exceptional, we allow it if the information is verifiable and relevant.
+J: Before publication, do you conduct a fact-check?
+S: Yes—we verify the claims thoroughly and provide context.
+German (glosses):
+J: Könnten (could) Sie (you) die (the) Redaktionsrichtlinie (editorial-policy) bezüglich (regarding) anonymer (anonymous) Quellen (sources) erläutern (explain)?
+S: Obwohl (although) Anonymität (anonymity) ausnahmsweise (exceptional) ist (is), erlauben (allow) wir (we) sie (it), wenn (if) die (the) Informationen (information) verifizierbar (verifiable) und (and) relevant (relevant) sind (are).
+J: Bevor (before) die (the) Veröffentlichung (publication) erfolgt (takes-place), führen (conduct) Sie (you) einen (a) Faktencheck (fact-check) durch (through)?
+S: Ja (yes)—wir (we) verifizieren (verify) die (the) Behauptungen (claims) gründlich (thoroughly) und (and) liefern (provide) Kontext (context).
+
+9.2 Redaktionsmeeting
+English translation:
+A: The headline seems sensational; we should tone it down.
+B: Because the evidence is limited, we will add a context paragraph.
+A: If the dataset is published, we will update the piece promptly.
+German (glosses):
+A: Die (the) Schlagzeile (headline) wirkt (seems) reißerisch (sensational); wir (we) sollten (should) sie (it) abschwächen (tone-down).
+B: Weil (because) die (the) Evidenz (evidence) begrenzt (limited) ist (is), fügen (add) wir (we) einen (a) Kontextabsatz (context-paragraph) hinzu (add).
+A: Wenn (if) der (the) Datensatz (dataset) veröffentlicht (published) wird (is), aktualisieren (update) wir (we) den (the) Beitrag (piece) zeitnah (promptly).
+
+9.3 Leserkommentar – Moderation
+English translation:
+A: Your comment violates our community guidelines.
+B: Understood—could you show me the relevant rule?
+A: Certainly; please edit accordingly.
+German (glosses):
+A: Ihr (your) Kommentar (comment) verstößt (violates) gegen (against) unsere (our) Community-Richtlinien (community-guidelines).
+B: Verstanden (understood)—könnten (could) Sie (you) mir (me) die (the) relevante (relevant) Regel (rule) zeigen (show)?
+A: Gewiss (certainly); bitte (please) bearbeiten (edit) Sie (you) entsprechend (accordingly).
+
+10) Übungen (mit Lösungen)
+Übung 1: Präpositionen präzisieren
+Aufgabe: Ergänze in, auf, über, aus, anhand, mit, gegen, gegenüber sinnvoll.
+
+Die Analyse steht ___ der Zeitschrift.
+Die Daten sind ___ der Website abrufbar.
+Der Bericht handelt ___ Medienethik.
+Die Zitate stammen ___ dem Interview.
+Wir prüfen Glaubwürdigkeit ___ Kriterien.
+Das Team arbeitet ___ Archivquellen.
+Die Redaktion positioniert sich ___ Desinformation.
+Der Kommentar setzt das Thema ___ der bisher üblichen Einordnung.
+
+Lösungen:
+
+in der Zeitschrift
+auf der Website
+über Medienethik
+aus dem Interview
+anhand von Kriterien
+mit Archivquellen
+gegen Desinformation
+gegenüber der bisher üblichen Einordnung
+
+
+Übung 2: Tempuswahl in der Berichterstattung
+Aufgabe: Wähle Präsens, Präteritum, Perfekt, Plusquamperfekt, Futur I, Futur II und formuliere.
+a) (live coverage) Der Sender ___ (melden) neue Details.
+b) (written report) Das Magazin ___ (veröffentlichen) eine Recherche gestern.
+c) (earlier cause) Bevor das Interview ___ (ausstrahlen), die Redaktion ___ (verifizieren) die Zitate.
+d) (plan) Morgen wir ___ (publizieren) das Dossier.
+e) (completion) Bis Freitag die Serie ___ (abschließen) ___ .
+Musterlösungen:
+a) meldet → Der Sender meldet neue Details. (Präsens)
+b) veröffentlichte → Das Magazin veröffentlichte gestern eine Recherche. (Präteritum)
+c) ausgestrahlt wurde / hatte verifiziert → Bevor das Interview ausgestrahlt wurde, hatte die Redaktion die Zitate verifiziert. (Präteritum/Plusquamperfekt)
+d) werden publizieren → Morgen werden wir das Dossier publizieren. (Futur I)
+e) wird abgeschlossen sein / wird abgeschlossen haben → Bis Freitag wird die Serie abgeschlossen sein. (Futur I Ergebniszustand) / … werden wir die Serie abgeschlossen haben. (Futur II)
+
+Übung 3: Modalität nuancieren
+Aufgabe: Ergänze müssen, sollen, dürfen, können, möchten, wird (Vermutung).
+
+Redaktionen ___ Quellen gründlich prüfen.
+Kommentare ___ respektvoll formuliert werden.
+Nutzende ___ Inhalte teilen, wenn sie die Regeln beachten.
+Prüfer ___ Archive einsehen.
+Ich ___ den Datensatz anfordern.
+Die Schlagzeile ___ sich kurzfristig ändern.
+
+Lösungen:
+
+müssen
+sollen
+dürfen
+können
+möchte
+wird (Vermutung)
+
+
+Übung 4: Nebensätze verbinden (kausal/final/konditional/konzessiv/temporal)
+Aufgabe: Verbinde: „Die Evidenz ist begrenzt. Wir liefern Kontext. Wenn der Datensatz erscheint, aktualisieren wir. Obwohl Zeitdruck besteht, bleibt Qualität zentral. Nachdem die Redaktion prüft, erscheint der Beitrag.“
+Beispiellösung (glosses):
+Weil (because) die (the) Evidenz (evidence) begrenzt (limited) ist (is), liefern (provide) wir (we) Kontext (context), damit (so-that) Leser (readers) informiert (informed) sind (are). Wenn (if) der (the) Datensatz (dataset) erscheint (appears), aktualisieren (update) wir (we) den (the) Beitrag (piece), obwohl (although) Zeitdruck (time-pressure) besteht (exists), bleibt (remains) Qualität (quality) zentral (central). Nachdem (after) die (the) Redaktion (editorial-team) prüft (checks), erscheint (appears) der (the) Beitrag (piece).
+
+Übung 5: Indirekte Rede
+Aufgabe: Formuliere indirekt: „Die Sprecherin: ‚Wir veröffentlichen das Dossier morgen.‘“
+Lösung (glossed):
+Die (the) Sprecherin (spokesperson) sagte (said), dass (that) sie (they) das (the) Dossier (dossier) morgen (tomorrow) veröffentlichen (publish) würden (would).
+
+Übung 6: Passiv & Nominalisierung
+Aufgabe: Formuliere formell.
+a) „Wir korrigieren den Fehler.“
+b) „Die Redaktion prüft die Quelle.“
+c) „Man liefert die Einordnung.“
+Lösungen:
+a) Der (the) Fehler (error) wird (is) korrigiert (corrected). (Passiv)
+b) Die (the) Prüfung (verification) der (of-the) Quelle (source) wird (is) durchgeführt (conducted). (Nominalisierung + Passiv)
+c) Die (the) Einordnung (contextualization) wird (is) bereitgestellt (provided). (Nominalisierung + Passiv)
+
+Übung 7: Adverbien präzisieren
+Aufgabe: Setze angeblich, offenbar, nachweislich, vermeintlich, mutmaßlich, zugleich ein.
+A) Die Behauptung ist ___ korrekt.
+B) Die Quelle wirkt ___ zuverlässig.
+C) Die Daten sind ___ konsistent.
+D) Die Meldung ist ___ aktuell.
+E) Die Ursache ist ___ extern.
+F) Die Analyse ist ___ kritisch und zugänglich.
+Lösungen:
+A) angeblich
+B) offenbar
+C) nachweislich
+D) vermeintlich
+E) mutmaßlich
+F) zugleich
+
+Übung 8: Idiomatik – passende Wendung
+Aufgabe: Ergänze die passende Wendung:
+
+„Die Redaktion ___ die Kommentarspalte.“
+„Die Schlagzeile ___.“
+„Wir ___ Reichweite.“
+
+Lösungen:
+
+moderiert die Kommentarspalte
+setzt die Schlagzeile
+erzielen Reichweite
+
+
+Übung 9: Register – formal vs. neutral
+Aufgabe: Formuliere formell (Passiv, Nominalisierung) und neutral.
+
+Inhalt: „Bitte aktualisieren Sie den Beitrag, sobald der Datensatz erscheint.“
+
+Beispiellösungen:
+Formell: Die (the) Aktualisierung (update) des (of-the) Beitrags (piece) wird (is) vorgenommen (carried-out), sobald (as-soon-as) der (the) Datensatz (dataset) erscheint (appears).
+Neutral: Bitte (please) aktualisieren (update) Sie (you) den (the) Beitrag (piece), sobald (as-soon-as) der (the) Datensatz (dataset) erscheint (appears).
+
+Übung 10: Kurzkommentar strukturieren
+Aufgabe: Verbinde mit weil, obwohl, damit und nutze ein Adverb (z. B. „nachweislich“).
+
+„Die Quelle ist zuverlässig. Evidenz ist begrenzt. Leser sollen Kontext bekommen.“
+
+Beispiellösung (glosses):
+Obwohl (although) die (the) Quelle (source) zuverlässig (reliable) ist (is), ist (is) die (the) Evidenz (evidence) begrenzt (limited); damit (so-that) Leser (readers) informiert (informed) sind (are), liefern (provide) wir (we) nachweislich (demonstrably) fundierten (well-founded) Kontext (context).
+
+11) Zusammenfassung & Praxistext
+English translation:
+At C1, media discourse demands precise prepositions and collocations, tense control for reporting sequences, modal nuance for policy and assumptions, complex clauses (including indirect speech), and formal tools (passive and nominalization). Adverbs help express stance and evidential strength; idioms convey professional practice.
+German (glosses):
+Auf (at) C1-Niveau (C1-level) erfordert (requires) der (the) Mediendiskurs (media-discourse) präzise (precise) Präpositionen (prepositions) und (and) Kollokationen (collocations), Tempusbeherrschung (tense-control) für (for) Berichtssequenzen (reporting-sequences), modale (modal) Nuancierung (nuance) für (for) Richtlinien (policy) und (and) Annahmen (assumptions), komplexe (complex) Nebensätze (subordinate-clauses) einschließlich (including) indirekter (indirect) Rede (speech), sowie (as-well-as) formelle (formal) Mittel (tools) (Passiv (passive), Nominalisierung (nominalization)).
+Adverbien (adverbs) drücken (express) Haltung (stance) und (and) Evidenzstärke (evidential-strength) aus (out); Idiome (idioms) vermitteln (convey) berufliche (professional) Praxis (practice).
+
+Bonus: Praxistext (vollständige Übersetzung + Glosses)
+English translation (sentence-by-sentence):
+Since Monday, the public broadcaster has published a series on media literacy. Although time pressure is high, the editors provide context and verify sources demonstrably. Before the interviews are aired, all quotes are checked. If the dataset is released tomorrow, the piece will be updated promptly. By Friday, the series will have been completed and the corrections will be published.
+German (glosses):
+Seit (since) Montag (Monday) hat (has) der (the) öffentlich-rechtliche (public) Rundfunk (broadcaster) eine (a) Serie (series) über (about) Medienkompetenz (media-literacy) veröffentlicht (published).
+Obwohl (although) der (the) Zeitdruck (time-pressure) hoch (high) ist (is), liefern (provide) die (the) Redakteure (editors) Kontext (context) und (and) verifizieren (verify) Quellen (sources) nachweislich (demonstrably).
+Bevor (before) die (the) Interviews (interviews) ausgestrahlt (aired) werden (are), werden (are) alle (all) Zitate (quotes) geprüft (checked).
+Wenn (if) der (the) Datensatz (dataset) morgen (tomorrow) veröffentlicht (released) wird (is), wird (will) der (the) Beitrag (piece) zeitnah (promptly) aktualisiert (updated).
+Bis (by) Freitag (Friday) wird (will) die (the) Serie (series) abgeschlossen (completed) sein (be) und (and) die (the) Korrekturen (corrections) werden (will) veröffentlicht (published) sein (be).
+
+Mini-Check (Selbsttest)
+
+
+Choose the correct clause type:
+___ die Evidenz begrenzt ist, liefern wir Kontext, ___ Leser informiert sind.
+Lösung: Weil … damit … → Weil die Evidenz begrenzt ist, liefern wir Kontext, damit Leser informiert sind.
+
+
+Tell the nuance:
+„vermeintlich“ vs. „nachweislich“
+Hinweis: vermeintlich = supposedly (claim without proof); nachweislich = demonstrably (supported by evidence).
+
+
+
+Extra: Formelle E-Mail-Vorlage (C1, Medienkontext)
+English translation:
+Subject: Request: dataset and editorial policy
+Dear editorial team, would it be possible to share the dataset and the policy on anonymous sources? We will verify citations demonstrably and provide context accordingly. Thank you.
+German (glosses):
+Betreff (subject): Anfrage (request): Datensatz (dataset) und (and) Redaktionsrichtlinie (editorial-policy)
+Sehr (very) geehrtes (esteemed) Redaktionsteam (editorial-team), wäre (would-be) es (it) möglich (possible), den (the) Datensatz (dataset) und (and) die (the) Richtlinie (policy) zu (to) anonymen (anonymous) Quellen (sources) zu (to) teilen (share)?
+Wir (we) werden (will) Zitate (citations) nachweislich (demonstrably) verifizieren (verify) und (and) Kontext (context) entsprechend (accordingly) bereitstellen (provide).
+Vielen (many) Dank (thanks).
